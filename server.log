@@ -1,0 +1,2097 @@
+2016-6-8 18:41:56 [INFO] Welcome! Please choose a language first!
+2016-6-8 18:41:56 [INFO] eng => English
+2016-6-8 18:41:56 [INFO] chs => 中文（简体）
+2016-6-8 18:41:56 [INFO] cht => 中文（繁體）
+2016-6-8 18:41:56 [INFO] jpn => 日本語
+2016-6-8 18:41:56 [INFO] rus => Pyccĸий
+2016-6-8 18:41:56 [INFO] spa => Español
+2016-6-8 18:41:56 [INFO] pol => Polish
+2016-6-8 18:41:56 [INFO] bra => Português-Brasil
+2016-6-8 18:41:56 [INFO] kor => 한국어
+2016-6-8 18:41:59 [INFO] Loading nukkit.yml...
+2016-6-8 18:41:59 [INFO] Loading server properties...
+2016-6-8 18:41:59 [INFO] Selected English (eng) as the base language
+2016-6-8 18:41:59 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:42:00 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:42:00 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:42:00 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:42:01 [NOTICE] Level "world" not found
+2016-6-8 18:42:01 [INFO] Preparing level "world"
+2016-6-8 18:42:01 [INFO] Starting GS4 status listener
+2016-6-8 18:42:01 [INFO] Setting query port to 19132
+2016-6-8 18:42:01 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:42:01 [INFO] Default game type: Survival Mode
+2016-6-8 18:42:01 [INFO] Done (5.787s)! For help, type "help" or "?"
+2016-6-8 18:43:24 [INFO] Loading nukkit.yml...
+2016-6-8 18:43:24 [INFO] Loading server properties...
+2016-6-8 18:43:24 [INFO] Selected English (eng) as the base language
+2016-6-8 18:43:24 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:43:25 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:43:25 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:43:25 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:43:26 [INFO] Preparing level "Grand Plaza"
+2016-6-8 18:43:26 [INFO] Starting GS4 status listener
+2016-6-8 18:43:26 [INFO] Setting query port to 19132
+2016-6-8 18:43:26 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:43:26 [INFO] Default game type: Survival Mode
+2016-6-8 18:43:26 [INFO] Done (3.033s)! For help, type "help" or "?"
+2016-6-8 18:43:51 [NOTICE] Player data not found for "redstonemaster87", creating new profile
+2016-6-8 18:43:51 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Grand Plaza, 340.0, 4.0, 4.0)
+2016-6-8 18:43:54 [ALERT] java.io.EOFException
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at cn.nukkit.nbt.stream.NBTInputStream.readByte(NBTInputStream.java:53)
+	at cn.nukkit.nbt.tag.ListTag.load(ListTag.java:39)
+	at cn.nukkit.nbt.tag.Tag.readNamedTag(Tag.java:88)
+	at cn.nukkit.nbt.tag.CompoundTag.load(CompoundTag.java:35)
+	at cn.nukkit.nbt.tag.Tag.readNamedTag(Tag.java:88)
+	at cn.nukkit.level.format.leveldb.Chunk.fromBinary(Chunk.java:340)
+	at cn.nukkit.level.format.leveldb.LevelDB$1.onRun(LevelDB.java:191)
+	at cn.nukkit.level.Level$4.onRun(Level.java:2214)
+	at cn.nukkit.scheduler.AsyncTask.run(AsyncTask.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2016-6-8 18:43:54 [ALERT] java.io.EOFException
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at cn.nukkit.nbt.stream.NBTInputStream.readByte(NBTInputStream.java:53)
+	at cn.nukkit.nbt.tag.ListTag.load(ListTag.java:39)
+	at cn.nukkit.nbt.tag.Tag.readNamedTag(Tag.java:88)
+	at cn.nukkit.nbt.tag.CompoundTag.load(CompoundTag.java:35)
+	at cn.nukkit.nbt.tag.Tag.readNamedTag(Tag.java:88)
+	at cn.nukkit.level.format.leveldb.Chunk.fromBinary(Chunk.java:340)
+	at cn.nukkit.level.format.leveldb.LevelDB$1.onRun(LevelDB.java:191)
+	at cn.nukkit.scheduler.AsyncTask.run(AsyncTask.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2016-6-8 18:44:37 [INFO] Loading nukkit.yml...
+2016-6-8 18:44:37 [INFO] Loading server properties...
+2016-6-8 18:44:37 [INFO] Selected English (eng) as the base language
+2016-6-8 18:44:37 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:44:38 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:44:38 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:44:38 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:44:39 [NOTICE] Level "Realm of Trails" not found
+2016-6-8 18:44:39 [INFO] Preparing level "Realm of Trails"
+2016-6-8 18:44:39 [INFO] Starting GS4 status listener
+2016-6-8 18:44:39 [INFO] Setting query port to 19132
+2016-6-8 18:44:39 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:44:39 [INFO] Default game type: Survival Mode
+2016-6-8 18:44:39 [INFO] Done (2.593s)! For help, type "help" or "?"
+2016-6-8 18:45:17 [INFO] Loading nukkit.yml...
+2016-6-8 18:45:18 [INFO] Loading server properties...
+2016-6-8 18:45:18 [INFO] Selected English (eng) as the base language
+2016-6-8 18:45:18 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:45:18 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:45:18 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:45:18 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:45:20 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:45:20 [INFO] Starting GS4 status listener
+2016-6-8 18:45:20 [INFO] Setting query port to 19132
+2016-6-8 18:45:20 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:45:20 [INFO] Default game type: Survival Mode
+2016-6-8 18:45:20 [INFO] Done (2.993s)! For help, type "help" or "?"
+2016-6-8 18:45:24 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Peirasmos Realm, 340.0, 4.0, 4.0)
+2016-6-8 18:45:25 [INFO] Redstonemaster87 joined the game
+2016-6-8 18:45:34 [INFO] [CONSOLE: Opped red']
+2016-6-8 18:45:37 [INFO] Unknown command. Try /help for a list of commands
+2016-6-8 18:45:41 [INFO] [CONSOLE: De-opped red]
+2016-6-8 18:45:49 [INFO] [CONSOLE: Opped Redstonemaster87]
+2016-6-8 18:45:56 [INFO] [CONSOLE: Set Redstonemaster87's game mode to Creative Mode]
+2016-6-8 18:48:26 [INFO] Unknown command. Try /help for a list of commands
+2016-6-8 18:48:32 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 18:48:32 [INFO] Redstonemaster87 left the game
+2016-6-8 18:48:32 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Server closed
+2016-6-8 18:48:32 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 18:48:34 [INFO] Stopping other threads
+2016-6-8 18:48:44 [INFO] Loading nukkit.yml...
+2016-6-8 18:48:44 [INFO] Loading server properties...
+2016-6-8 18:48:44 [INFO] Selected English (eng) as the base language
+2016-6-8 18:48:44 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:48:44 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:48:44 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:48:44 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:48:47 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:48:47 [INFO] Starting GS4 status listener
+2016-6-8 18:48:47 [INFO] Setting query port to 19132
+2016-6-8 18:48:47 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:48:47 [INFO] Default game type: Survival Mode
+2016-6-8 18:48:47 [INFO] Done (3.863s)! For help, type "help" or "?"
+2016-6-8 18:48:57 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 18:48:57 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 18:48:57 [INFO] Stopping other threads
+2016-6-8 18:50:34 [INFO] Loading nukkit.yml...
+2016-6-8 18:50:34 [INFO] Loading server properties...
+2016-6-8 18:50:34 [INFO] Selected English (eng) as the base language
+2016-6-8 18:50:34 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:50:34 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:50:34 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:50:34 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:50:36 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:50:36 [INFO] Starting GS4 status listener
+2016-6-8 18:50:36 [INFO] Setting query port to 19132
+2016-6-8 18:50:36 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:50:36 [INFO] Default game type: Survival Mode
+2016-6-8 18:50:36 [INFO] Done (3.023s)! For help, type "help" or "?"
+2016-6-8 18:50:44 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Server is full!
+2016-6-8 18:50:48 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Server is full!
+2016-6-8 18:51:16 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 18:51:16 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 18:51:16 [INFO] Stopping other threads
+2016-6-8 18:51:21 [INFO] Loading nukkit.yml...
+2016-6-8 18:51:21 [INFO] Loading server properties...
+2016-6-8 18:51:21 [INFO] Selected English (eng) as the base language
+2016-6-8 18:51:21 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:51:21 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:51:21 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:51:22 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:51:23 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:51:23 [INFO] Starting GS4 status listener
+2016-6-8 18:51:23 [INFO] Setting query port to 19132
+2016-6-8 18:51:23 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:51:23 [INFO] Default game type: Survival Mode
+2016-6-8 18:51:23 [INFO] Done (3.031s)! For help, type "help" or "?"
+2016-6-8 18:51:47 [INFO] Loading nukkit.yml...
+2016-6-8 18:51:47 [INFO] Loading server properties...
+2016-6-8 18:51:47 [INFO] Selected English (eng) as the base language
+2016-6-8 18:51:47 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:51:47 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:51:47 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:51:47 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:51:49 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:51:49 [INFO] Starting GS4 status listener
+2016-6-8 18:51:49 [INFO] Setting query port to 19132
+2016-6-8 18:51:49 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:51:49 [INFO] Default game type: Survival Mode
+2016-6-8 18:51:49 [INFO] Done (2.973s)! For help, type "help" or "?"
+2016-6-8 18:51:53 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Peirasmos Realm, 29.8432, 40.3888, 203.3365)
+2016-6-8 18:51:57 [INFO] Redstonemaster87 joined the game
+2016-6-8 18:52:21 [INFO] Redstonemaster87 left the game
+2016-6-8 18:52:21 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Kicked by admin.
+2016-6-8 18:52:21 [INFO] [CONSOLE: Kicked Redstonemaster87 from the game]
+2016-6-8 18:52:24 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 2 at (Peirasmos Realm, 29.8432, 21.0, 203.3365)
+2016-6-8 18:52:25 [INFO] Redstonemaster87 joined the game
+2016-6-8 18:52:29 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 18:52:29 [INFO] Redstonemaster87 left the game
+2016-6-8 18:52:29 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Server closed
+2016-6-8 18:52:29 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 18:52:29 [INFO] Stopping other threads
+2016-6-8 18:52:34 [INFO] Loading nukkit.yml...
+2016-6-8 18:52:35 [INFO] Loading server properties...
+2016-6-8 18:52:35 [INFO] Selected English (eng) as the base language
+2016-6-8 18:52:35 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:52:35 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:52:35 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:52:35 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:52:37 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:52:37 [INFO] Starting GS4 status listener
+2016-6-8 18:52:37 [INFO] Setting query port to 19132
+2016-6-8 18:52:37 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:52:37 [INFO] Default game type: Survival Mode
+2016-6-8 18:52:37 [INFO] Done (3.031s)! For help, type "help" or "?"
+2016-6-8 18:52:39 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Peirasmos Realm, 29.8432, 21.0, 203.3365)
+2016-6-8 18:52:43 [INFO] Redstonemaster87 joined the game
+2016-6-8 18:53:06 [INFO] There are 1 (out of 1 seen) whitelisted players:
+2016-6-8 18:53:06 [INFO] Nicolas_555
+2016-6-8 18:53:17 [INFO] [CONSOLE: Turned on the whitelist]
+2016-6-8 18:53:21 [INFO] Redstonemaster87 left the game
+2016-6-8 18:53:21 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Kicked by admin.
+2016-6-8 18:53:21 [INFO] [CONSOLE: Kicked Redstonemaster87 from the game]
+2016-6-8 18:53:26 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 2 at (Peirasmos Realm, 29.8432, 21.0, 203.3365)
+2016-6-8 18:53:27 [INFO] Redstonemaster87 joined the game
+2016-6-8 18:53:52 [INFO] Unknown command. Try /help for a list of commands
+2016-6-8 18:53:57 [INFO] Redstonemaster87 left the game
+2016-6-8 18:53:57 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Kicked by admin. Reason: IP banned.
+2016-6-8 18:53:57 [INFO] [CONSOLE: Banned IP address 192.168.0.12 belonging to Redstonemaster87]
+2016-6-8 18:55:21 [INFO] [CONSOLE: Unbanned IP address 192.168.0.12]
+2016-6-8 18:55:29 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 18:55:29 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 18:55:29 [INFO] Stopping other threads
+2016-6-8 18:55:39 [INFO] Loading nukkit.yml...
+2016-6-8 18:55:39 [INFO] Loading server properties...
+2016-6-8 18:55:39 [INFO] Selected English (eng) as the base language
+2016-6-8 18:55:39 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:55:40 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:55:40 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:55:40 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:55:41 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:55:41 [INFO] Starting GS4 status listener
+2016-6-8 18:55:41 [INFO] Setting query port to 19132
+2016-6-8 18:55:41 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:55:41 [INFO] Default game type: Survival Mode
+2016-6-8 18:55:41 [INFO] Done (3.0s)! For help, type "help" or "?"
+2016-6-8 18:55:45 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Peirasmos Realm, 29.8432, 21.0, 203.3365)
+2016-6-8 18:55:49 [INFO] Redstonemaster87 joined the game
+2016-6-8 18:55:58 [INFO] Usage: /deop <player>
+2016-6-8 18:56:02 [INFO] Redstonemaster87 died
+2016-6-8 18:56:02 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:06 [INFO] Redstonemaster87 died
+2016-6-8 18:56:06 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:08 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:10 [INFO] Redstonemaster87 died
+2016-6-8 18:56:10 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:12 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:16 [INFO] Redstonemaster87 died
+2016-6-8 18:56:16 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:28 [INFO] Redstonemaster87 died
+2016-6-8 18:56:28 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:29 [INFO] Redstonemaster87 died
+2016-6-8 18:56:29 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:30 [INFO] Redstonemaster87 died
+2016-6-8 18:56:30 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:31 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:31 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:32 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:33 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:34 [INFO] Usage: /deop <player>
+2016-6-8 18:56:34 [INFO] Usage: /deop <player>
+2016-6-8 18:56:35 [INFO] Usage: /deop <player>
+2016-6-8 18:56:35 [INFO] Usage: /deop <player>
+2016-6-8 18:56:35 [INFO] Usage: /deop <player>
+2016-6-8 18:56:36 [INFO] Usage: /deop <player>
+2016-6-8 18:56:36 [INFO] Usage: /deop <player>
+2016-6-8 18:56:40 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:41 [INFO] Usage: /deop <player>
+2016-6-8 18:56:42 [INFO] Usage: /deop <player>
+2016-6-8 18:56:43 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:43 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:44 [INFO] [CONSOLE: Killed Redstonemaster87]
+2016-6-8 18:56:54 [INFO] [CONSOLE: Banned player red]]
+2016-6-8 18:56:58 [INFO] [CONSOLE: Unbanned player red]
+2016-6-8 18:57:06 [INFO] [CONSOLE: Banned player redstonemster87]
+2016-6-8 18:57:19 [INFO] [CONSOLE: Banned player redstonemaster]
+2016-6-8 18:57:28 [INFO] Redstonemaster87 left the game
+2016-6-8 18:57:28 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Banned by admin
+2016-6-8 18:57:28 [INFO] [CONSOLE: Banned player Redstonemaster87]
+2016-6-8 18:57:42 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to You are banned
+2016-6-8 18:57:45 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to You are banned
+2016-6-8 18:58:18 [INFO] Loading nukkit.yml...
+2016-6-8 18:58:18 [INFO] Loading server properties...
+2016-6-8 18:58:18 [INFO] Selected English (eng) as the base language
+2016-6-8 18:58:18 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 18:58:18 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 18:58:18 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 18:58:18 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 18:58:20 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 18:58:20 [INFO] Starting GS4 status listener
+2016-6-8 18:58:20 [INFO] Setting query port to 19132
+2016-6-8 18:58:20 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 18:58:20 [INFO] Default game type: Survival Mode
+2016-6-8 18:58:20 [INFO] Done (3.0s)! For help, type "help" or "?"
+2016-6-8 18:58:22 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Peirasmos Realm, 78.0, 6.0, -10.0)
+2016-6-8 18:58:27 [INFO] Redstonemaster87 joined the game
+2016-6-8 18:58:58 [INFO] <Redstonemaster87> ikr
+2016-6-8 18:59:00 [INFO] <Redstonemaster87> kol
+2016-6-8 18:59:02 [INFO] <Redstonemaster87> lolug
+2016-6-8 18:59:03 [INFO] <Redstonemaster87> yu
+2016-6-8 18:59:04 [INFO] <Redstonemaster87> u
+2016-6-8 18:59:07 [INFO] <Redstonemaster87> shut
+2016-6-8 18:59:10 [INFO] <Redstonemaster87> g
+2016-6-8 19:02:50 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 19:02:50 [INFO] Redstonemaster87 left the game
+2016-6-8 19:02:50 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Server closed
+2016-6-8 19:02:50 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 19:02:50 [INFO] Stopping other threads
+2016-6-8 19:02:56 [INFO] Loading nukkit.yml...
+2016-6-8 19:02:56 [INFO] Loading server properties...
+2016-6-8 19:02:56 [INFO] Selected English (eng) as the base language
+2016-6-8 19:02:56 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 19:02:57 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 19:02:57 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 19:02:57 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 19:02:58 [INFO] Loading Welcome v0.1.5
+2016-6-8 19:02:58 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 19:02:58 [INFO] Enabling Welcome v0.1.5
+2016-6-8 19:02:59 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-8 19:02:59 [INFO] Starting GS4 status listener
+2016-6-8 19:02:59 [INFO] Setting query port to 19132
+2016-6-8 19:02:59 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 19:02:59 [INFO] Default game type: Survival Mode
+2016-6-8 19:02:59 [INFO] Done (3.75s)! For help, type "help" or "?"
+2016-6-8 19:03:04 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Peirasmos Realm, 77.3, 4.0, -12.3)
+2016-6-8 19:03:54 [INFO] [Welcome] Player Redstonemaster87 registered!
+2016-6-8 19:03:57 [INFO] <Redstonemaster87> Yay
+2016-6-8 19:04:15 [INFO] Unknown command. Try /help for a list of commands
+2016-6-8 19:06:27 [INFO] Redstonemaster87 left the game
+2016-6-8 19:06:27 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to client disconnect
+2016-6-8 19:06:32 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 2 at (Peirasmos Realm, 81.05, 7.525, -13.7)
+2016-6-8 19:08:44 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 19:08:44 [INFO] Disabling Welcome v0.1.5
+2016-6-8 19:08:44 [INFO] Redstonemaster87 left the game
+2016-6-8 19:08:44 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Server closed
+2016-6-8 19:08:44 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 19:08:45 [INFO] Stopping other threads
+2016-6-8 19:08:49 [INFO] Loading nukkit.yml...
+2016-6-8 19:08:50 [INFO] Loading server properties...
+2016-6-8 19:08:50 [INFO] Selected English (eng) as the base language
+2016-6-8 19:08:50 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 19:08:50 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 19:08:50 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 19:08:50 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 19:08:51 [INFO] Loading WorldEdit v1.0
+2016-6-8 19:08:51 [INFO] Loading Welcome v0.1.5
+2016-6-8 19:08:51 [INFO] Loading xChat v1.5
+2016-6-8 19:08:52 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 19:08:52 [INFO] Enabling WorldEdit v1.0
+2016-6-8 19:08:52 [INFO] Enabling Welcome v0.1.5
+2016-6-8 19:08:52 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-8 19:08:52 [INFO] Enabling xChat v1.5
+2016-6-8 19:08:52 [INFO] [xChat] ######### xChat by impact ###########
+2016-6-8 19:08:52 [INFO] [xChat] * You don't have a Multipass plugin! Install it from nukkit.ru
+2016-6-8 19:08:52 [INFO] Disabling xChat v1.5
+2016-6-8 19:08:53 [ALERT] cn.nukkit.utils.PluginException: Plugin attempted to register ru.undefined1.xChat.xListener while not enabled
+	at cn.nukkit.plugin.PluginManager.registerEvents(PluginManager.java:573)
+	at ru.undefined1.xChat.xChat.onEnable(xChat.java:120)
+	at cn.nukkit.plugin.PluginBase.setEnabled(PluginBase.java:89)
+	at cn.nukkit.plugin.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:120)
+	at cn.nukkit.plugin.PluginManager.enablePlugin(PluginManager.java:452)
+	at cn.nukkit.Server.enablePlugin(Server.java:605)
+	at cn.nukkit.Server.enablePlugins(Server.java:594)
+	at cn.nukkit.Server.<init>(Server.java:441)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-6-8 19:08:53 [INFO] Starting GS4 status listener
+2016-6-8 19:08:53 [INFO] Setting query port to 19132
+2016-6-8 19:08:53 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 19:08:53 [INFO] Default game type: Survival Mode
+2016-6-8 19:08:53 [INFO] Done (3.969s)! For help, type "help" or "?"
+2016-6-8 19:12:08 [INFO] Loading nukkit.yml...
+2016-6-8 19:12:08 [INFO] Loading server properties...
+2016-6-8 19:12:08 [INFO] Selected English (eng) as the base language
+2016-6-8 19:12:08 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 19:12:09 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 19:12:09 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 19:12:09 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 19:12:10 [INFO] Loading WorldEdit v1.0
+2016-6-8 19:12:10 [INFO] Loading Welcome v0.1.5
+2016-6-8 19:12:10 [INFO] Loading xChat v1.5
+2016-6-8 19:12:11 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 19:12:11 [INFO] Enabling WorldEdit v1.0
+2016-6-8 19:12:11 [INFO] Enabling Welcome v0.1.5
+2016-6-8 19:12:11 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-8 19:12:11 [INFO] Enabling xChat v1.5
+2016-6-8 19:12:11 [INFO] [xChat] ######### xChat by impact ###########
+2016-6-8 19:12:11 [INFO] [xChat] * You don't have a Multipass plugin! Install it from nukkit.ru
+2016-6-8 19:12:11 [INFO] Disabling xChat v1.5
+2016-6-8 19:12:11 [ALERT] cn.nukkit.utils.PluginException: Plugin attempted to register ru.undefined1.xChat.xListener while not enabled
+	at cn.nukkit.plugin.PluginManager.registerEvents(PluginManager.java:573)
+	at ru.undefined1.xChat.xChat.onEnable(xChat.java:120)
+	at cn.nukkit.plugin.PluginBase.setEnabled(PluginBase.java:89)
+	at cn.nukkit.plugin.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:120)
+	at cn.nukkit.plugin.PluginManager.enablePlugin(PluginManager.java:452)
+	at cn.nukkit.Server.enablePlugin(Server.java:605)
+	at cn.nukkit.Server.enablePlugins(Server.java:594)
+	at cn.nukkit.Server.<init>(Server.java:441)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-6-8 19:12:11 [INFO] Starting GS4 status listener
+2016-6-8 19:12:11 [INFO] Setting query port to 19132
+2016-6-8 19:12:11 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 19:12:11 [INFO] Default game type: Survival Mode
+2016-6-8 19:12:11 [INFO] Done (3.828s)! For help, type "help" or "?"
+2016-6-8 19:12:38 [INFO] Loading nukkit.yml...
+2016-6-8 19:12:38 [INFO] Loading server properties...
+2016-6-8 19:12:38 [INFO] Selected English (eng) as the base language
+2016-6-8 19:12:38 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-8 19:12:39 [INFO] Opening server on 0.0.0.0:19132
+2016-6-8 19:12:39 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-8 19:12:39 [INFO] Nukkit is distributed under the LGPL License
+2016-6-8 19:12:40 [INFO] Loading WorldEdit v1.0
+2016-6-8 19:12:40 [INFO] Loading Welcome v0.1.5
+2016-6-8 19:12:40 [INFO] Preparing level "Peirasmos Realm"
+2016-6-8 19:12:40 [INFO] Enabling WorldEdit v1.0
+2016-6-8 19:12:40 [INFO] Enabling Welcome v0.1.5
+2016-6-8 19:12:41 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-8 19:12:41 [INFO] Starting GS4 status listener
+2016-6-8 19:12:41 [INFO] Setting query port to 19132
+2016-6-8 19:12:41 [INFO] Query running on 0.0.0.0:19132
+2016-6-8 19:12:41 [INFO] Default game type: Survival Mode
+2016-6-8 19:12:41 [INFO] Done (3.469s)! For help, type "help" or "?"
+2016-6-8 19:12:49 [INFO] Redstonemaster87[/192.168.0.12:19132] logged in with entity id 1 at (Peirasmos Realm, 79.0375, 5.0, 9.8496)
+2016-6-8 19:13:18 [INFO] [CONSOLE: Stopping the server]
+2016-6-8 19:13:21 [INFO] Disabling WorldEdit v1.0
+2016-6-8 19:13:21 [INFO] Disabling Welcome v0.1.5
+2016-6-8 19:13:21 [INFO] Redstonemaster87 left the game
+2016-6-8 19:13:21 [INFO] Redstonemaster87[/192.168.0.12:19132] logged out due to Server closed
+2016-6-8 19:13:21 [INFO] Unloading level "Peirasmos Realm"
+2016-6-8 19:13:24 [INFO] Stopping other threads
+2016-6-13 16:37:04 [INFO] Loading nukkit.yml...
+2016-6-13 16:37:05 [INFO] Loading server properties...
+2016-6-13 16:37:05 [INFO] Selected English (eng) as the base language
+2016-6-13 16:37:05 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-13 16:37:05 [INFO] Opening server on 0.0.0.0:19132
+2016-6-13 16:37:05 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-13 16:37:05 [INFO] Nukkit is distributed under the LGPL License
+2016-6-13 16:37:07 [INFO] Loading WorldEdit v1.0
+2016-6-13 16:37:07 [INFO] Loading Welcome v0.1.5
+2016-6-13 16:37:08 [INFO] Preparing level "Peirasmos Realm"
+2016-6-13 16:37:08 [INFO] Enabling WorldEdit v1.0
+2016-6-13 16:37:08 [INFO] Enabling Welcome v0.1.5
+2016-6-13 16:37:08 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-13 16:37:08 [INFO] Starting GS4 status listener
+2016-6-13 16:37:08 [INFO] Setting query port to 19132
+2016-6-13 16:37:08 [INFO] Query running on 0.0.0.0:19132
+2016-6-13 16:37:08 [INFO] Default game type: Survival Mode
+2016-6-13 16:37:08 [INFO] Done (7.93s)! For help, type "help" or "?"
+2016-6-13 16:38:21 [INFO] Redmaster878[/192.168.0.17:58085] logged out due to Server is white-listed
+2016-6-13 16:38:43 [INFO] [CONSOLE: Turned off the whitelist]
+2016-6-13 16:38:49 [NOTICE] Player data not found for "redmaster878", creating new profile
+2016-6-13 16:38:50 [INFO] Redmaster878[/192.168.0.17:58085] logged in with entity id 1 at (Peirasmos Realm, 78.0, 6.0, -10.0)
+2016-6-13 16:39:21 [WARNING] Redmaster878 moved wrongly!
+2016-6-13 16:39:22 [WARNING] Redmaster878 moved wrongly!
+2016-6-13 16:39:54 [INFO] [Welcome] Player Redmaster878 registered!
+2016-6-13 16:40:15 [INFO] Redmaster878 left the game
+2016-6-13 16:40:15 [INFO] Redmaster878[/192.168.0.17:58085] logged out due to timeout
+2016-6-13 16:40:23 [INFO] [CONSOLE: Opped redmaster878]
+2016-6-13 16:40:34 [INFO] Redmaster878[/192.168.0.17:58085] logged in with entity id 2 at (Peirasmos Realm, 78.0, 6.0, -10.0)
+2016-6-13 16:41:04 [INFO] <Redmaster878> Bfcncbcc
+2016-6-15 14:14:15 [INFO] Loading nukkit.yml...
+2016-6-15 14:14:15 [INFO] Loading server properties...
+2016-6-15 14:14:15 [INFO] Selected English (eng) as the base language
+2016-6-15 14:14:15 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 14:14:16 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 14:14:16 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 14:14:16 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 14:14:17 [INFO] Loading WorldEdit v1.0
+2016-6-15 14:14:17 [INFO] Loading Welcome v0.1.5
+2016-6-15 14:14:18 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 14:14:18 [INFO] Enabling WorldEdit v1.0
+2016-6-15 14:14:18 [INFO] Enabling Welcome v0.1.5
+2016-6-15 14:14:18 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 14:14:18 [INFO] Starting GS4 status listener
+2016-6-15 14:14:18 [INFO] Setting query port to 19132
+2016-6-15 14:14:18 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 14:14:18 [INFO] Default game type: Survival Mode
+2016-6-15 14:14:18 [INFO] Done (3.832s)! For help, type "help" or "?"
+2016-6-15 14:24:15 [INFO] Loading nukkit.yml...
+2016-6-15 14:24:16 [INFO] Loading server properties...
+2016-6-15 14:24:16 [INFO] Selected English (eng) as the base language
+2016-6-15 14:24:16 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 14:24:16 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 14:24:16 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 14:24:16 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 14:24:17 [INFO] Loading BattleWorlds v1.0.0
+2016-6-15 14:24:17 [INFO] Loading Borders v0.0.3
+2016-6-15 14:24:17 [INFO] Loading ProtectWorld v1.0
+2016-6-15 14:24:17 [INFO] Loading ShowInfo v1.0.0
+2016-6-15 14:24:17 [INFO] Loading Social-ClearChat v1.0
+2016-6-15 14:24:17 [INFO] Loading WorldEdit v1.0
+2016-6-15 14:24:17 [INFO] Loading Welcome v0.1.5
+2016-6-15 14:24:18 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 14:24:18 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-15 14:24:18 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-15 14:24:18 [INFO] Enabling Borders v0.0.3
+2016-6-15 14:24:18 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-15 14:24:18 [INFO] Enabling ProtectWorld v1.0
+2016-6-15 14:24:18 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-15 14:24:18 [INFO] Enabling ShowInfo v1.0.0
+2016-6-15 14:24:18 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-15 14:24:18 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-15 14:24:18 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-15 14:24:18 [INFO] Enabling Social-ClearChat v1.0
+2016-6-15 14:24:18 [INFO] -----------------------
+2016-6-15 14:24:18 [INFO] |      Enabled!       |
+2016-6-15 14:24:18 [INFO] |   Social-ClearChat  |
+2016-6-15 14:24:18 [INFO] |         by          |
+2016-6-15 14:24:18 [INFO] |      augesrob       |
+2016-6-15 14:24:18 [INFO] -----------------------
+2016-6-15 14:24:18 [INFO] Enabling WorldEdit v1.0
+2016-6-15 14:24:18 [INFO] Enabling Welcome v0.1.5
+2016-6-15 14:24:18 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 14:24:19 [INFO] Starting GS4 status listener
+2016-6-15 14:24:19 [INFO] Setting query port to 19132
+2016-6-15 14:24:19 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 14:24:19 [INFO] Default game type: Survival Mode
+2016-6-15 14:24:19 [INFO] Done (3.717s)! For help, type "help" or "?"
+2016-6-15 14:24:49 [INFO] [/192.168.0.12:19132] logged out due to Login timeout
+2016-6-15 14:25:08 [INFO] [/192.168.0.12:19132] logged out due to Login timeout
+2016-6-15 16:08:32 [INFO] Loading nukkit.yml...
+2016-6-15 16:08:32 [INFO] Loading server properties...
+2016-6-15 16:08:32 [INFO] Selected English (eng) as the base language
+2016-6-15 16:08:32 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 16:08:33 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 16:08:33 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 16:08:33 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 16:08:34 [INFO] Loading BattleWorlds v1.0.0
+2016-6-15 16:08:34 [INFO] Loading Borders v0.0.3
+2016-6-15 16:08:34 [INFO] Loading ProtectWorld v1.0
+2016-6-15 16:08:34 [INFO] Loading ShowInfo v1.0.0
+2016-6-15 16:08:34 [INFO] Loading Social-ClearChat v1.0
+2016-6-15 16:08:34 [INFO] Loading ToolsPro v0.0.4
+2016-6-15 16:08:34 [INFO] Loading WorldEdit v1.0
+2016-6-15 16:08:34 [INFO] Loading Welcome v0.1.5
+2016-6-15 16:08:35 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 16:08:35 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-15 16:08:35 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-15 16:08:35 [INFO] Enabling Borders v0.0.3
+2016-6-15 16:08:35 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-15 16:08:35 [INFO] Enabling ProtectWorld v1.0
+2016-6-15 16:08:35 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-15 16:08:35 [INFO] Enabling ShowInfo v1.0.0
+2016-6-15 16:08:35 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-15 16:08:35 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-15 16:08:35 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-15 16:08:35 [INFO] Enabling Social-ClearChat v1.0
+2016-6-15 16:08:35 [INFO] -----------------------
+2016-6-15 16:08:35 [INFO] |      Enabled!       |
+2016-6-15 16:08:35 [INFO] |   Social-ClearChat  |
+2016-6-15 16:08:35 [INFO] |         by          |
+2016-6-15 16:08:35 [INFO] |      augesrob       |
+2016-6-15 16:08:35 [INFO] -----------------------
+2016-6-15 16:08:35 [INFO] Enabling ToolsPro v0.0.4
+2016-6-15 16:08:35 [INFO] [ToolsPro] When you search for updates of the plugin's happened error!
+2016-6-15 16:08:35 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-15 16:08:35 [INFO] Enabling WorldEdit v1.0
+2016-6-15 16:08:35 [INFO] Enabling Welcome v0.1.5
+2016-6-15 16:08:35 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 16:08:35 [INFO] Starting GS4 status listener
+2016-6-15 16:08:35 [INFO] Setting query port to 19132
+2016-6-15 16:08:35 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 16:08:35 [INFO] Default game type: Survival Mode
+2016-6-15 16:08:35 [INFO] Done (3.919s)! For help, type "help" or "?"
+2016-6-15 16:08:52 [INFO] --- Showing help page 1 of 1 (/help <page>) ---
+2016-6-15 16:08:52 [INFO] //: View available WorldEdit commands.
+2016-6-15 16:08:52 [INFO] /antioch: Holy hand grenade.
+2016-6-15 16:08:52 [INFO] /ban: Prevents the specified player from using this server
+2016-6-15 16:08:52 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2016-6-15 16:08:52 [INFO] /banlist: View all players banned from this server
+2016-6-15 16:08:52 [INFO] /border: Border command (type /border help)
+2016-6-15 16:08:52 [INFO] /break: Breaks the block you're looking at.
+2016-6-15 16:08:52 [INFO] /broadcast: Broadcast a message.
+2016-6-15 16:08:52 [INFO] /burn: Set a player on fire.
+2016-6-15 16:08:52 [INFO] /changepassword: /changepassword <password> <newPassword> <newPassword> - change password
+2016-6-15 16:08:52 [INFO] /clearhotbar: Clear your/other's hot-bar.
+2016-6-15 16:08:52 [INFO] /clearinventory: Clear your/other's inventory.
+2016-6-15 16:08:52 [INFO] /compass: Display your current bearing direction.
+2016-6-15 16:08:52 [INFO] /defaultgamemode: Set the default gamemode
+2016-6-15 16:08:52 [INFO] /deop: Takes the specified player's operator status
+2016-6-15 16:08:52 [INFO] /depth: Display your depth related to sea-level.
+2016-6-15 16:08:52 [INFO] /difficulty: Sets the game difficulty
+2016-6-15 16:08:52 [INFO] /effect: Adds/Removes effects on players
+2016-6-15 16:08:52 [INFO] /enchant: Adds enchantments on items
+2016-6-15 16:08:52 [INFO] /extinguish: Extinguish a player.
+2016-6-15 16:08:52 [INFO] /fly: Fly in Survival or Adventure mode.
+2016-6-15 16:08:52 [INFO] /gamemode: Changes the player to a specific game mode
+2016-6-15 16:08:52 [INFO] /getpos: Get your/other's position
+2016-6-15 16:08:52 [INFO] /give: Gives the specified player a certain amount of items
+2016-6-15 16:08:52 [INFO] /god: Prevent you to take any damage.
+2016-6-15 16:08:52 [INFO] /heal: Heal yourself or other player.
+2016-6-15 16:08:52 [INFO] /help: Shows the help menu
+2016-6-15 16:08:52 [INFO] /item: Manages the list of blocked items and blocks.
+2016-6-15 16:08:52 [INFO] /itemdb: Display the information attached to the item you hold.
+2016-6-15 16:08:52 [INFO] /jump: Teleport you to the block you're looking at.
+2016-6-15 16:08:52 [INFO] /kick: Removes the specified player from the server
+2016-6-15 16:08:52 [INFO] /kickall: Kick all the players.
+2016-6-15 16:08:52 [INFO] /kill: Commit suicide or kill other players
+2016-6-15 16:08:52 [INFO] /list: Lists all online players
+2016-6-15 16:08:52 [INFO] /login: /login <password> - login to server
+2016-6-15 16:08:52 [INFO] /logoff: /logoff - logoff from server (to prevent autologin time)
+2016-6-15 16:08:52 [INFO] /me: Performs the specified action in chat
+2016-6-15 16:08:52 [INFO] /more: Get a stack of the item you're holding.
+2016-6-15 16:08:52 [INFO] /mute: Mute a player.
+2016-6-15 16:08:52 [INFO] /nuke: Change your speed limits.
+2016-6-15 16:08:52 [INFO] /op: Gives the specified player operator status
+2016-6-15 16:08:52 [INFO] /pardon: Allows the specified player to use this server
+2016-6-15 16:08:52 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2016-6-15 16:08:52 [INFO] /particle: Adds particles to a world
+2016-6-15 16:08:52 [INFO] /pcc: Clear personal chat
+2016-6-15 16:08:52 [INFO] /plugins: Gets a list of plugins running on the server
+2016-6-15 16:08:52 [INFO] /realname: Check the realname of a player.
+2016-6-15 16:08:52 [INFO] /register: /register <password> [password] - register player on server
+2016-6-15 16:08:52 [INFO] /reload: Reloads the server configuration and plugins
+2016-6-15 16:08:52 [INFO] /repair: Repair the item you're holding.
+2016-6-15 16:08:52 [INFO] /save-all: Saves the server to disk
+2016-6-15 16:08:52 [INFO] /save-off: Disables server autosaving
+2016-6-15 16:08:52 [INFO] /save-on: Enables server autosaving
+2016-6-15 16:08:52 [INFO] /saveinv: Keep your inventory after death.
+2016-6-15 16:08:52 [INFO] /say: Broadcasts the given message as the sender
+2016-6-15 16:08:52 [INFO] /scc: Clear global chat
+2016-6-15 16:08:52 [INFO] /seed: Shows the world seed
+2016-6-15 16:08:52 [INFO] /setspawn: Change your server main spawn point.
+2016-6-15 16:08:52 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2016-6-15 16:08:52 [INFO] /showinfo: Comamnd of ShowInfo
+2016-6-15 16:08:52 [INFO] /spawn: Teleport to server's main spawn.
+2016-6-15 16:08:52 [INFO] /spawnall: Teleports all players to spawn.
+2016-6-15 16:08:52 [INFO] /spawnpoint: Sets a player's spawn point
+2016-6-15 16:08:52 [INFO] /speed: Change your speed limits.
+2016-6-15 16:08:52 [INFO] /stop: Stops the server
+2016-6-15 16:08:52 [INFO] /sudo: Run a command as another player.
+2016-6-15 16:08:52 [INFO] /suicide: Kill yourself.
+2016-6-15 16:08:52 [INFO] /tell: Sends a private message to the given player
+2016-6-15 16:08:52 [INFO] /time: Changes the time on each world
+2016-6-15 16:08:52 [INFO] /toolspro: Shows information about the plugin.
+2016-6-15 16:08:52 [INFO] /top: Teleport to the highest block above you.
+2016-6-15 16:08:52 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2016-6-15 16:08:52 [INFO] /tree: Teleport to the highest block above you.
+2016-6-15 16:08:52 [INFO] /unmute: Unmute a player.
+2016-6-15 16:08:52 [INFO] /unregister: /unregister <password> - unregister from server
+2016-6-15 16:08:52 [INFO] /vanish: Hide from other players.
+2016-6-15 16:08:52 [INFO] /version: Gets the version of this server including any plugins in use
+2016-6-15 16:08:52 [INFO] /weather: Sets the weather in current world
+2016-6-15 16:08:52 [INFO] /welcome: /welcome - Welcome plugin command
+2016-6-15 16:08:52 [INFO] /whitelist: Manages the list of players allowed to use this server
+2016-6-15 16:08:52 [INFO] /world: Commands for working with the worlds
+2016-6-15 16:08:52 [INFO] /xp: Gives the specified player a certain amount of experience
+2016-6-15 16:09:21 [INFO] [World] Usage: /world create <world> <old|infinite|flat> or /world tp <world> <player>
+2016-6-15 16:13:31 [INFO] Loading nukkit.yml...
+2016-6-15 16:13:31 [INFO] Loading server properties...
+2016-6-15 16:13:31 [INFO] Selected English (eng) as the base language
+2016-6-15 16:13:31 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 16:13:32 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 16:13:32 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 16:13:32 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 16:13:33 [INFO] Loading BattleWorlds v1.0.0
+2016-6-15 16:13:33 [INFO] Loading Borders v0.0.3
+2016-6-15 16:13:33 [INFO] Loading ProtectWorld v1.0
+2016-6-15 16:13:33 [INFO] Loading ShowInfo v1.0.0
+2016-6-15 16:13:33 [INFO] Loading Social-ClearChat v1.0
+2016-6-15 16:13:33 [INFO] Loading ToolsPro v0.0.4
+2016-6-15 16:13:33 [INFO] Loading WorldEdit v1.0
+2016-6-15 16:13:33 [INFO] Loading Welcome v0.1.5
+2016-6-15 16:13:33 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 16:13:33 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-15 16:13:33 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-15 16:13:33 [INFO] Enabling Borders v0.0.3
+2016-6-15 16:13:33 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-15 16:13:33 [INFO] Enabling ProtectWorld v1.0
+2016-6-15 16:13:33 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-15 16:13:33 [INFO] Enabling ShowInfo v1.0.0
+2016-6-15 16:13:33 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-15 16:13:33 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-15 16:13:34 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-15 16:13:34 [INFO] Enabling Social-ClearChat v1.0
+2016-6-15 16:13:34 [INFO] -----------------------
+2016-6-15 16:13:34 [INFO] |      Enabled!       |
+2016-6-15 16:13:34 [INFO] |   Social-ClearChat  |
+2016-6-15 16:13:34 [INFO] |         by          |
+2016-6-15 16:13:34 [INFO] |      augesrob       |
+2016-6-15 16:13:34 [INFO] -----------------------
+2016-6-15 16:13:34 [INFO] Enabling ToolsPro v0.0.4
+2016-6-15 16:13:34 [INFO] [ToolsPro] When you search for updates of the plugin's happened error!
+2016-6-15 16:13:34 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-15 16:13:34 [INFO] Enabling WorldEdit v1.0
+2016-6-15 16:13:34 [INFO] Enabling Welcome v0.1.5
+2016-6-15 16:13:34 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 16:13:34 [INFO] Starting GS4 status listener
+2016-6-15 16:13:34 [INFO] Setting query port to 19132
+2016-6-15 16:13:34 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 16:13:34 [INFO] Default game type: Survival Mode
+2016-6-15 16:13:34 [INFO] Done (3.69s)! For help, type "help" or "?"
+2016-6-15 17:55:23 [INFO] Loading nukkit.yml...
+2016-6-15 17:55:23 [INFO] Loading server properties...
+2016-6-15 17:55:23 [INFO] Selected English (eng) as the base language
+2016-6-15 17:55:23 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 17:55:24 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 17:55:24 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 17:55:24 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 17:55:25 [INFO] Loading BattleWorlds v1.0.0
+2016-6-15 17:55:25 [INFO] Loading Borders v0.0.3
+2016-6-15 17:55:25 [INFO] Loading ProtectWorld v1.0
+2016-6-15 17:55:25 [INFO] Loading ShowInfo v1.0.0
+2016-6-15 17:55:25 [INFO] Loading Social-ClearChat v1.0
+2016-6-15 17:55:25 [INFO] Loading ToolsPro v0.0.4
+2016-6-15 17:55:25 [INFO] Loading WorldEdit v1.0
+2016-6-15 17:55:25 [INFO] Loading Welcome v0.1.5
+2016-6-15 17:55:26 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 17:55:26 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-15 17:55:26 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-15 17:55:26 [INFO] Enabling Borders v0.0.3
+2016-6-15 17:55:26 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-15 17:55:26 [INFO] Enabling ProtectWorld v1.0
+2016-6-15 17:55:26 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-15 17:55:26 [INFO] Enabling ShowInfo v1.0.0
+2016-6-15 17:55:26 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-15 17:55:26 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-15 17:55:26 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-15 17:55:26 [INFO] Enabling Social-ClearChat v1.0
+2016-6-15 17:55:26 [INFO] -----------------------
+2016-6-15 17:55:26 [INFO] |      Enabled!       |
+2016-6-15 17:55:26 [INFO] |   Social-ClearChat  |
+2016-6-15 17:55:26 [INFO] |         by          |
+2016-6-15 17:55:26 [INFO] |      augesrob       |
+2016-6-15 17:55:26 [INFO] -----------------------
+2016-6-15 17:55:26 [INFO] Enabling ToolsPro v0.0.4
+2016-6-15 17:55:27 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-15 17:55:27 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-15 17:55:27 [INFO] Enabling WorldEdit v1.0
+2016-6-15 17:55:27 [INFO] Enabling Welcome v0.1.5
+2016-6-15 17:55:27 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 17:55:27 [INFO] Starting GS4 status listener
+2016-6-15 17:55:27 [INFO] Setting query port to 19132
+2016-6-15 17:55:27 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 17:55:27 [INFO] Default game type: Survival Mode
+2016-6-15 17:55:27 [INFO] Done (4.596s)! For help, type "help" or "?"
+2016-6-15 17:56:32 [INFO] Loading nukkit.yml...
+2016-6-15 17:56:32 [INFO] Loading server properties...
+2016-6-15 17:56:32 [INFO] Selected English (eng) as the base language
+2016-6-15 17:56:32 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 17:56:32 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 17:56:32 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 17:56:32 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 17:56:33 [INFO] Loading BattleWorlds v1.0.0
+2016-6-15 17:56:33 [INFO] Loading Borders v0.0.3
+2016-6-15 17:56:33 [INFO] Loading ProtectWorld v1.0
+2016-6-15 17:56:33 [INFO] Loading ShowInfo v1.0.0
+2016-6-15 17:56:33 [INFO] Loading Social-ClearChat v1.0
+2016-6-15 17:56:33 [INFO] Loading ToolsPro v0.0.4
+2016-6-15 17:56:34 [INFO] Loading WorldEdit v1.0
+2016-6-15 17:56:34 [INFO] Loading Welcome v0.1.5
+2016-6-15 17:56:34 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 17:56:34 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-15 17:56:34 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-15 17:56:34 [INFO] Enabling Borders v0.0.3
+2016-6-15 17:56:34 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-15 17:56:34 [INFO] Enabling ProtectWorld v1.0
+2016-6-15 17:56:34 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-15 17:56:34 [INFO] Enabling ShowInfo v1.0.0
+2016-6-15 17:56:34 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-15 17:56:34 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-15 17:56:34 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-15 17:56:34 [INFO] Enabling Social-ClearChat v1.0
+2016-6-15 17:56:34 [INFO] -----------------------
+2016-6-15 17:56:34 [INFO] |      Enabled!       |
+2016-6-15 17:56:34 [INFO] |   Social-ClearChat  |
+2016-6-15 17:56:34 [INFO] |         by          |
+2016-6-15 17:56:34 [INFO] |      augesrob       |
+2016-6-15 17:56:34 [INFO] -----------------------
+2016-6-15 17:56:34 [INFO] Enabling ToolsPro v0.0.4
+2016-6-15 17:56:35 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-15 17:56:35 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-15 17:56:35 [INFO] Enabling WorldEdit v1.0
+2016-6-15 17:56:35 [INFO] Enabling Welcome v0.1.5
+2016-6-15 17:56:35 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 17:56:35 [INFO] Starting GS4 status listener
+2016-6-15 17:56:35 [INFO] Setting query port to 19132
+2016-6-15 17:56:35 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 17:56:35 [INFO] Default game type: Survival Mode
+2016-6-15 17:56:35 [INFO] Done (4.117s)! For help, type "help" or "?"
+2016-6-15 18:05:40 [INFO] Loading nukkit.yml...
+2016-6-15 18:05:40 [INFO] Loading server properties...
+2016-6-15 18:05:40 [INFO] Selected English (eng) as the base language
+2016-6-15 18:05:40 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 18:05:41 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 18:05:41 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 18:05:41 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 18:05:42 [INFO] Loading BattleWorlds v1.0.0
+2016-6-15 18:05:42 [INFO] Loading Borders v0.0.3
+2016-6-15 18:05:42 [INFO] Loading ProtectWorld v1.0
+2016-6-15 18:05:42 [INFO] Loading ShowInfo v1.0.0
+2016-6-15 18:05:42 [INFO] Loading Social-ClearChat v1.0
+2016-6-15 18:05:42 [INFO] Loading ToolsPro v0.0.4
+2016-6-15 18:05:42 [INFO] Loading WorldEdit v1.0
+2016-6-15 18:05:42 [INFO] Loading Welcome v0.1.5
+2016-6-15 18:05:42 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 18:05:42 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-15 18:05:42 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-15 18:05:42 [INFO] Enabling Borders v0.0.3
+2016-6-15 18:05:43 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-15 18:05:43 [INFO] Enabling ProtectWorld v1.0
+2016-6-15 18:05:43 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-15 18:05:43 [INFO] Enabling ShowInfo v1.0.0
+2016-6-15 18:05:43 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-15 18:05:43 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-15 18:05:43 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-15 18:05:43 [INFO] Enabling Social-ClearChat v1.0
+2016-6-15 18:05:43 [INFO] -----------------------
+2016-6-15 18:05:43 [INFO] |      Enabled!       |
+2016-6-15 18:05:43 [INFO] |   Social-ClearChat  |
+2016-6-15 18:05:43 [INFO] |         by          |
+2016-6-15 18:05:43 [INFO] |      augesrob       |
+2016-6-15 18:05:43 [INFO] -----------------------
+2016-6-15 18:05:43 [INFO] Enabling ToolsPro v0.0.4
+2016-6-15 18:05:43 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-15 18:05:43 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-15 18:05:43 [INFO] Enabling WorldEdit v1.0
+2016-6-15 18:05:43 [INFO] Enabling Welcome v0.1.5
+2016-6-15 18:05:44 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 18:05:44 [INFO] Starting GS4 status listener
+2016-6-15 18:05:44 [INFO] Setting query port to 19132
+2016-6-15 18:05:44 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 18:05:44 [INFO] Default game type: Survival Mode
+2016-6-15 18:05:44 [INFO] Done (4.188s)! For help, type "help" or "?"
+2016-6-15 18:06:35 [INFO] Unknown command. Try /help for a list of commands
+2016-6-15 18:06:42 [INFO] [CONSOLE: Stopping the server]
+2016-6-15 18:06:42 [INFO] Disabling BattleWorlds v1.0.0
+2016-6-15 18:06:42 [INFO] [BattleWorlds] BattleWorlds was disabled
+2016-6-15 18:06:42 [INFO] Disabling Borders v0.0.3
+2016-6-15 18:06:42 [INFO] Disabling ProtectWorld v1.0
+2016-6-15 18:06:42 [INFO] [ProtectWorld] ProtectWorld was disabled.
+2016-6-15 18:06:42 [INFO] Disabling ShowInfo v1.0.0
+2016-6-15 18:06:43 [INFO] Disabling Social-ClearChat v1.0
+2016-6-15 18:06:43 [INFO] -----------------------
+2016-6-15 18:06:43 [INFO] |      Disabled!      |
+2016-6-15 18:06:43 [INFO] |   Social-ClearChat  |
+2016-6-15 18:06:43 [INFO] |         by          |
+2016-6-15 18:06:43 [INFO] |      augesrob       |
+2016-6-15 18:06:43 [INFO] -----------------------
+2016-6-15 18:06:43 [INFO] Disabling ToolsPro v0.0.4
+2016-6-15 18:06:43 [INFO] [ToolsPro] ToolsPro successfully disabled!
+2016-6-15 18:06:43 [INFO] Disabling WorldEdit v1.0
+2016-6-15 18:06:43 [INFO] Disabling Welcome v0.1.5
+2016-6-15 18:06:43 [INFO] Unloading level "Peirasmos Realm"
+2016-6-15 18:06:43 [INFO] Stopping other threads
+2016-6-15 18:32:50 [INFO] Loading nukkit.yml...
+2016-6-15 18:32:50 [INFO] Loading server properties...
+2016-6-15 18:32:51 [INFO] Selected English (eng) as the base language
+2016-6-15 18:32:51 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-15 18:32:51 [INFO] Opening server on 0.0.0.0:19132
+2016-6-15 18:32:51 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-15 18:32:51 [INFO] Nukkit is distributed under the LGPL License
+2016-6-15 18:32:52 [INFO] Loading BattleWorlds v1.0.0
+2016-6-15 18:32:52 [INFO] Loading Borders v0.0.3
+2016-6-15 18:32:52 [INFO] Loading ProtectWorld v1.0
+2016-6-15 18:32:52 [INFO] Loading ShowInfo v1.0.0
+2016-6-15 18:32:52 [INFO] Loading Social-ClearChat v1.0
+2016-6-15 18:32:52 [INFO] Loading ToolsPro v0.0.4
+2016-6-15 18:32:52 [INFO] Loading WorldEdit v1.0
+2016-6-15 18:32:52 [INFO] Loading Welcome v0.1.5
+2016-6-15 18:32:53 [INFO] Preparing level "Peirasmos Realm"
+2016-6-15 18:32:53 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-15 18:32:53 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-15 18:32:53 [INFO] Enabling Borders v0.0.3
+2016-6-15 18:32:53 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-15 18:32:53 [INFO] Enabling ProtectWorld v1.0
+2016-6-15 18:32:53 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-15 18:32:53 [INFO] Enabling ShowInfo v1.0.0
+2016-6-15 18:32:53 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-15 18:32:53 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-15 18:32:53 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-15 18:32:53 [INFO] Enabling Social-ClearChat v1.0
+2016-6-15 18:32:53 [INFO] -----------------------
+2016-6-15 18:32:53 [INFO] |      Enabled!       |
+2016-6-15 18:32:53 [INFO] |   Social-ClearChat  |
+2016-6-15 18:32:53 [INFO] |         by          |
+2016-6-15 18:32:53 [INFO] |      augesrob       |
+2016-6-15 18:32:53 [INFO] -----------------------
+2016-6-15 18:32:54 [INFO] Enabling ToolsPro v0.0.4
+2016-6-15 18:32:54 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-15 18:32:54 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-15 18:32:54 [INFO] Enabling WorldEdit v1.0
+2016-6-15 18:32:54 [INFO] Enabling Welcome v0.1.5
+2016-6-15 18:32:54 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-15 18:32:54 [INFO] Starting GS4 status listener
+2016-6-15 18:32:54 [INFO] Setting query port to 19132
+2016-6-15 18:32:54 [INFO] Query running on 0.0.0.0:19132
+2016-6-15 18:32:54 [INFO] Default game type: Survival Mode
+2016-6-15 18:32:54 [INFO] Done (4.789s)! For help, type "help" or "?"
+2016-6-16 19:03:26 [INFO] Loading nukkit.yml...
+2016-6-16 19:03:26 [INFO] Loading server properties...
+2016-6-16 19:03:26 [INFO] Selected English (eng) as the base language
+2016-6-16 19:03:26 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-16 19:03:26 [INFO] Opening server on 0.0.0.0:19132
+2016-6-16 19:03:26 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-16 19:03:26 [INFO] Nukkit is distributed under the LGPL License
+2016-6-16 19:03:28 [INFO] Loading BattleWorlds v1.0.0
+2016-6-16 19:03:28 [INFO] Loading Borders v0.0.3
+2016-6-16 19:03:28 [INFO] Loading ProtectWorld v1.0
+2016-6-16 19:03:28 [INFO] Loading ShowInfo v1.0.0
+2016-6-16 19:03:28 [INFO] Loading Social-ClearChat v1.0
+2016-6-16 19:03:28 [INFO] Loading ToolsPro v0.0.4
+2016-6-16 19:03:28 [INFO] Loading WorldEdit v1.0
+2016-6-16 19:03:28 [INFO] Loading Welcome v0.1.5
+2016-6-16 19:03:29 [INFO] Preparing level "Peirasmos Realm"
+2016-6-16 19:03:29 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-16 19:03:29 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-16 19:03:29 [INFO] Enabling Borders v0.0.3
+2016-6-16 19:03:29 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-16 19:03:29 [INFO] Enabling ProtectWorld v1.0
+2016-6-16 19:03:29 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-16 19:03:29 [INFO] Enabling ShowInfo v1.0.0
+2016-6-16 19:03:29 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-16 19:03:29 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-16 19:03:29 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-16 19:03:29 [INFO] Enabling Social-ClearChat v1.0
+2016-6-16 19:03:29 [INFO] -----------------------
+2016-6-16 19:03:29 [INFO] |      Enabled!       |
+2016-6-16 19:03:29 [INFO] |   Social-ClearChat  |
+2016-6-16 19:03:29 [INFO] |         by          |
+2016-6-16 19:03:29 [INFO] |      augesrob       |
+2016-6-16 19:03:29 [INFO] -----------------------
+2016-6-16 19:03:29 [INFO] Enabling ToolsPro v0.0.4
+2016-6-16 19:03:29 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-16 19:03:29 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-16 19:03:29 [INFO] Enabling WorldEdit v1.0
+2016-6-16 19:03:29 [INFO] Enabling Welcome v0.1.5
+2016-6-16 19:03:30 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-16 19:03:30 [INFO] Starting GS4 status listener
+2016-6-16 19:03:30 [INFO] Setting query port to 19132
+2016-6-16 19:03:30 [INFO] Query running on 0.0.0.0:19132
+2016-6-16 19:03:30 [INFO] Default game type: Survival Mode
+2016-6-16 19:03:30 [INFO] Done (5.316s)! For help, type "help" or "?"
+2016-6-16 19:11:23 [INFO] [/192.168.0.18:19132] logged out due to client disconnect
+2016-6-16 19:24:19 [INFO] [CONSOLE: Stopping the server]
+2016-6-16 19:24:19 [INFO] Disabling BattleWorlds v1.0.0
+2016-6-16 19:24:19 [INFO] [BattleWorlds] BattleWorlds was disabled
+2016-6-16 19:24:19 [INFO] Disabling Borders v0.0.3
+2016-6-16 19:24:19 [INFO] Disabling ProtectWorld v1.0
+2016-6-16 19:24:19 [INFO] [ProtectWorld] ProtectWorld was disabled.
+2016-6-16 19:24:19 [INFO] Disabling ShowInfo v1.0.0
+2016-6-16 19:24:19 [INFO] Disabling Social-ClearChat v1.0
+2016-6-16 19:24:19 [INFO] -----------------------
+2016-6-16 19:24:19 [INFO] |      Disabled!      |
+2016-6-16 19:24:19 [INFO] |   Social-ClearChat  |
+2016-6-16 19:24:19 [INFO] |         by          |
+2016-6-16 19:24:19 [INFO] |      augesrob       |
+2016-6-16 19:24:19 [INFO] -----------------------
+2016-6-16 19:24:19 [INFO] Disabling ToolsPro v0.0.4
+2016-6-16 19:24:19 [INFO] [ToolsPro] ToolsPro successfully disabled!
+2016-6-16 19:24:19 [INFO] Disabling WorldEdit v1.0
+2016-6-16 19:24:19 [INFO] Disabling Welcome v0.1.5
+2016-6-16 19:24:19 [INFO] Unloading level "Peirasmos Realm"
+2016-6-16 19:24:19 [INFO] Stopping other threads
+2016-6-17 20:26:56 [INFO] Loading nukkit.yml...
+2016-6-17 20:26:56 [INFO] Loading server properties...
+2016-6-17 20:26:56 [INFO] Selected English (eng) as the base language
+2016-6-17 20:26:56 [INFO] Starting Minecraft: PE server version v0.14.3 alpha
+2016-6-17 20:26:57 [INFO] Opening server on 0.0.0.0:19132
+2016-6-17 20:26:57 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-17 20:26:57 [INFO] Nukkit is distributed under the LGPL License
+2016-6-17 20:26:58 [INFO] Loading BattleWorlds v1.0.0
+2016-6-17 20:26:58 [INFO] Loading Borders v0.0.3
+2016-6-17 20:26:58 [INFO] Loading ProtectWorld v1.0
+2016-6-17 20:26:58 [INFO] Loading ShowInfo v1.0.0
+2016-6-17 20:26:59 [INFO] Loading Social-ClearChat v1.0
+2016-6-17 20:26:59 [INFO] Loading ToolsPro v0.0.4
+2016-6-17 20:26:59 [INFO] Loading WorldEdit v1.0
+2016-6-17 20:26:59 [INFO] Loading Welcome v0.1.5
+2016-6-17 20:26:59 [INFO] Preparing level "Peirasmos Realm"
+2016-6-17 20:26:59 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-17 20:26:59 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-17 20:26:59 [INFO] Enabling Borders v0.0.3
+2016-6-17 20:26:59 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-17 20:26:59 [INFO] Enabling ProtectWorld v1.0
+2016-6-17 20:26:59 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-17 20:26:59 [INFO] Enabling ShowInfo v1.0.0
+2016-6-17 20:26:59 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-17 20:26:59 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-17 20:26:59 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-17 20:27:00 [INFO] Enabling Social-ClearChat v1.0
+2016-6-17 20:27:00 [INFO] -----------------------
+2016-6-17 20:27:00 [INFO] |      Enabled!       |
+2016-6-17 20:27:00 [INFO] |   Social-ClearChat  |
+2016-6-17 20:27:00 [INFO] |         by          |
+2016-6-17 20:27:00 [INFO] |      augesrob       |
+2016-6-17 20:27:00 [INFO] -----------------------
+2016-6-17 20:27:00 [INFO] Enabling ToolsPro v0.0.4
+2016-6-17 20:27:00 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-17 20:27:00 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-17 20:27:00 [INFO] Enabling WorldEdit v1.0
+2016-6-17 20:27:00 [INFO] Enabling Welcome v0.1.5
+2016-6-17 20:27:00 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-17 20:27:00 [INFO] Starting GS4 status listener
+2016-6-17 20:27:00 [INFO] Setting query port to 19132
+2016-6-17 20:27:00 [INFO] Query running on 0.0.0.0:19132
+2016-6-17 20:27:00 [INFO] Default game type: Survival Mode
+2016-6-17 20:27:00 [INFO] Done (5.752s)! For help, type "help" or "?"
+2016-6-19 18:41:50 [INFO] Loading nukkit.yml...
+2016-6-19 18:41:51 [INFO] Loading server properties...
+2016-6-19 18:41:51 [INFO] Selected English (eng) as the base language
+2016-6-19 18:41:51 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-19 18:41:51 [INFO] Opening server on 0.0.0.0:19132
+2016-6-19 18:41:51 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-19 18:41:51 [INFO] Nukkit is distributed under the LGPL License
+2016-6-19 18:41:53 [INFO] Loading BattleWorlds v1.0.0
+2016-6-19 18:41:53 [INFO] Loading Borders v0.0.3
+2016-6-19 18:41:53 [INFO] Loading ProtectWorld v1.0
+2016-6-19 18:41:53 [INFO] Loading ShowInfo v1.0.0
+2016-6-19 18:41:53 [INFO] Loading Social-ClearChat v1.0
+2016-6-19 18:41:53 [INFO] Loading ToolsPro v0.0.4
+2016-6-19 18:41:53 [INFO] Loading WorldEdit v1.0
+2016-6-19 18:41:53 [INFO] Loading Welcome v0.1.5
+2016-6-19 18:41:54 [INFO] Preparing level "Peirasmos Realm"
+2016-6-19 18:41:54 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-19 18:41:54 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-19 18:41:54 [INFO] Enabling Borders v0.0.3
+2016-6-19 18:41:54 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-19 18:41:54 [INFO] Enabling ProtectWorld v1.0
+2016-6-19 18:41:54 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-19 18:41:54 [INFO] Enabling ShowInfo v1.0.0
+2016-6-19 18:41:54 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-19 18:41:54 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-19 18:41:54 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-19 18:41:54 [INFO] Enabling Social-ClearChat v1.0
+2016-6-19 18:41:54 [INFO] -----------------------
+2016-6-19 18:41:54 [INFO] |      Enabled!       |
+2016-6-19 18:41:54 [INFO] |   Social-ClearChat  |
+2016-6-19 18:41:54 [INFO] |         by          |
+2016-6-19 18:41:54 [INFO] |      augesrob       |
+2016-6-19 18:41:54 [INFO] -----------------------
+2016-6-19 18:41:54 [INFO] Enabling ToolsPro v0.0.4
+2016-6-19 18:41:54 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-19 18:41:55 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-19 18:41:55 [INFO] Enabling WorldEdit v1.0
+2016-6-19 18:41:55 [INFO] Enabling Welcome v0.1.5
+2016-6-19 18:41:55 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-19 18:41:55 [INFO] Starting GS4 status listener
+2016-6-19 18:41:55 [INFO] Setting query port to 19132
+2016-6-19 18:41:55 [INFO] Query running on 0.0.0.0:19132
+2016-6-19 18:41:55 [INFO] Default game type: Survival Mode
+2016-6-19 18:41:55 [INFO] Done (5.449s)! For help, type "help" or "?"
+2016-6-19 18:42:34 [INFO] Redstonemaster87[/192.168.0.10:19132] logged in with entity id 1 at (Peirasmos Realm, 79.0375, 5.0, 9.8496)
+2016-6-19 18:42:36 [WARNING] Can't keep up! Is the server overloaded?
+2016-6-19 18:44:55 [INFO] Loading nukkit.yml...
+2016-6-19 18:44:55 [INFO] Loading server properties...
+2016-6-19 18:44:55 [INFO] Selected English (eng) as the base language
+2016-6-19 18:44:56 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-19 18:44:56 [INFO] Opening server on 0.0.0.0:19132
+2016-6-19 18:44:56 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-19 18:44:56 [INFO] Nukkit is distributed under the LGPL License
+2016-6-19 18:44:57 [INFO] Loading BattleWorlds v1.0.0
+2016-6-19 18:44:57 [INFO] Loading Borders v0.0.3
+2016-6-19 18:44:57 [INFO] Loading ProtectWorld v1.0
+2016-6-19 18:44:57 [INFO] Loading ShowInfo v1.0.0
+2016-6-19 18:44:57 [INFO] Loading Social-ClearChat v1.0
+2016-6-19 18:44:57 [INFO] Loading ToolsPro v0.0.4
+2016-6-19 18:44:57 [INFO] Loading WorldEdit v1.0
+2016-6-19 18:44:57 [INFO] Loading Welcome v0.1.5
+2016-6-19 18:44:58 [INFO] Preparing level "Grand Plaza"
+2016-6-19 18:44:58 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-19 18:44:58 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-19 18:44:58 [INFO] Enabling Borders v0.0.3
+2016-6-19 18:44:58 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-19 18:44:58 [INFO] Enabling ProtectWorld v1.0
+2016-6-19 18:44:58 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-19 18:44:58 [INFO] Enabling ShowInfo v1.0.0
+2016-6-19 18:44:58 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-19 18:44:58 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-19 18:44:58 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-19 18:44:58 [INFO] Enabling Social-ClearChat v1.0
+2016-6-19 18:44:58 [INFO] -----------------------
+2016-6-19 18:44:58 [INFO] |      Enabled!       |
+2016-6-19 18:44:58 [INFO] |   Social-ClearChat  |
+2016-6-19 18:44:58 [INFO] |         by          |
+2016-6-19 18:44:58 [INFO] |      augesrob       |
+2016-6-19 18:44:58 [INFO] -----------------------
+2016-6-19 18:44:58 [INFO] Enabling ToolsPro v0.0.4
+2016-6-19 18:44:58 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-19 18:44:58 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-19 18:44:58 [INFO] Enabling WorldEdit v1.0
+2016-6-19 18:44:58 [INFO] Enabling Welcome v0.1.5
+2016-6-19 18:44:59 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-19 18:44:59 [INFO] Starting GS4 status listener
+2016-6-19 18:44:59 [INFO] Setting query port to 19132
+2016-6-19 18:44:59 [INFO] Query running on 0.0.0.0:19132
+2016-6-19 18:44:59 [INFO] Default game type: Survival Mode
+2016-6-19 18:44:59 [INFO] Done (4.075s)! For help, type "help" or "?"
+2016-6-19 18:45:08 [INFO] Redstonemaster87[/192.168.0.10:19132] logged in with entity id 1 at (Grand Plaza, 79.0375, 5.0, 9.8496)
+2016-6-19 18:45:45 [INFO] [Welcome] Player Redstonemaster87 logged-in!
+2016-6-19 18:46:39 [INFO] [CONSOLE: Opped Redstonemaster87]
+2016-6-19 18:47:16 [INFO] <Redstonemaster87> a
+2016-6-19 18:47:53 [INFO] [CONSOLE: Teleported Redstonemaster87 to 80.0, 90.0, 90.0]
+2016-6-19 18:49:06 [INFO] Preparing level "test"
+2016-6-19 18:49:43 [INFO] [CONSOLE: Stopping the server]
+2016-6-19 18:49:43 [INFO] Disabling BattleWorlds v1.0.0
+2016-6-19 18:49:43 [INFO] [BattleWorlds] BattleWorlds was disabled
+2016-6-19 18:49:43 [INFO] Disabling Borders v0.0.3
+2016-6-19 18:49:43 [INFO] Disabling ProtectWorld v1.0
+2016-6-19 18:49:43 [INFO] [ProtectWorld] ProtectWorld was disabled.
+2016-6-19 18:49:43 [INFO] Disabling ShowInfo v1.0.0
+2016-6-19 18:49:43 [INFO] Disabling Social-ClearChat v1.0
+2016-6-19 18:49:43 [INFO] -----------------------
+2016-6-19 18:49:43 [INFO] |      Disabled!      |
+2016-6-19 18:49:43 [INFO] |   Social-ClearChat  |
+2016-6-19 18:49:43 [INFO] |         by          |
+2016-6-19 18:49:43 [INFO] |      augesrob       |
+2016-6-19 18:49:43 [INFO] -----------------------
+2016-6-19 18:49:43 [INFO] Disabling ToolsPro v0.0.4
+2016-6-19 18:49:43 [INFO] [ToolsPro] ToolsPro successfully disabled!
+2016-6-19 18:49:43 [INFO] Disabling WorldEdit v1.0
+2016-6-19 18:49:43 [INFO] Disabling Welcome v0.1.5
+2016-6-19 18:49:43 [INFO] Redstonemaster87 left the game
+2016-6-19 18:49:43 [INFO] Redstonemaster87[/192.168.0.10:19132] logged out due to Server closed
+2016-6-19 18:49:43 [INFO] Unloading level "Grand Plaza"
+2016-6-19 18:49:47 [INFO] Unloading level "test"
+2016-6-19 18:49:47 [INFO] Stopping other threads
+2016-6-19 18:51:33 [INFO] Loading nukkit.yml...
+2016-6-19 18:51:33 [INFO] Loading server properties...
+2016-6-19 18:51:33 [INFO] Selected English (eng) as the base language
+2016-6-19 18:51:33 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-19 18:51:34 [INFO] Opening server on 0.0.0.0:19132
+2016-6-19 18:51:34 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-19 18:51:34 [INFO] Nukkit is distributed under the LGPL License
+2016-6-19 18:51:35 [INFO] Loading BattleWorlds v1.0.0
+2016-6-19 18:51:35 [INFO] Loading Borders v0.0.3
+2016-6-19 18:51:35 [INFO] Loading ProtectWorld v1.0
+2016-6-19 18:51:35 [INFO] Loading ShowInfo v1.0.0
+2016-6-19 18:51:35 [INFO] Loading Social-ClearChat v1.0
+2016-6-19 18:51:35 [INFO] Loading ToolsPro v0.0.4
+2016-6-19 18:51:35 [INFO] Loading WorldEdit v1.0
+2016-6-19 18:51:35 [INFO] Loading Welcome v0.1.5
+2016-6-19 18:51:35 [INFO] Preparing level "Grand Plaza"
+2016-6-19 18:51:35 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-19 18:51:36 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-19 18:51:36 [INFO] Enabling Borders v0.0.3
+2016-6-19 18:51:36 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-19 18:51:36 [INFO] Enabling ProtectWorld v1.0
+2016-6-19 18:51:36 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-19 18:51:36 [INFO] Enabling ShowInfo v1.0.0
+2016-6-19 18:51:36 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-19 18:51:36 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-19 18:51:36 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-19 18:51:36 [INFO] Enabling Social-ClearChat v1.0
+2016-6-19 18:51:36 [INFO] -----------------------
+2016-6-19 18:51:36 [INFO] |      Enabled!       |
+2016-6-19 18:51:36 [INFO] |   Social-ClearChat  |
+2016-6-19 18:51:36 [INFO] |         by          |
+2016-6-19 18:51:36 [INFO] |      augesrob       |
+2016-6-19 18:51:36 [INFO] -----------------------
+2016-6-19 18:51:36 [INFO] Enabling ToolsPro v0.0.4
+2016-6-19 18:51:36 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-19 18:51:36 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-19 18:51:36 [INFO] Enabling WorldEdit v1.0
+2016-6-19 18:51:36 [INFO] Enabling Welcome v0.1.5
+2016-6-19 18:51:36 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-19 18:51:36 [INFO] Starting GS4 status listener
+2016-6-19 18:51:36 [INFO] Setting query port to 19132
+2016-6-19 18:51:36 [INFO] Query running on 0.0.0.0:19132
+2016-6-19 18:51:36 [INFO] Default game type: Survival Mode
+2016-6-19 18:51:36 [INFO] Done (3.937s)! For help, type "help" or "?"
+2016-6-19 18:51:47 [INFO] Redstonemaster87[/192.168.0.10:19132] logged in with entity id 1 at (Grand Plaza, 157.2059, 80.125, 28.777)
+2016-6-19 18:52:13 [INFO] [Welcome] Player Redstonemaster87 logged-in!
+2016-6-19 18:53:37 [INFO] <Redstonemaster87> ugh
+2016-6-19 18:53:43 [INFO] --- Showing help page 1 of 1 (/help <page>) ---
+2016-6-19 18:53:43 [INFO] //: View available WorldEdit commands.
+2016-6-19 18:53:43 [INFO] /antioch: Holy hand grenade.
+2016-6-19 18:53:43 [INFO] /ban: Prevents the specified player from using this server
+2016-6-19 18:53:43 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2016-6-19 18:53:43 [INFO] /banlist: View all players banned from this server
+2016-6-19 18:53:43 [INFO] /border: Border command (type /border help)
+2016-6-19 18:53:43 [INFO] /break: Breaks the block you're looking at.
+2016-6-19 18:53:43 [INFO] /broadcast: Broadcast a message.
+2016-6-19 18:53:43 [INFO] /burn: Set a player on fire.
+2016-6-19 18:53:43 [INFO] /changepassword: /changepassword <password> <newPassword> <newPassword> - change password
+2016-6-19 18:53:43 [INFO] /clearhotbar: Clear your/other's hot-bar.
+2016-6-19 18:53:43 [INFO] /clearinventory: Clear your/other's inventory.
+2016-6-19 18:53:43 [INFO] /compass: Display your current bearing direction.
+2016-6-19 18:53:43 [INFO] /defaultgamemode: Set the default gamemode
+2016-6-19 18:53:43 [INFO] /deop: Takes the specified player's operator status
+2016-6-19 18:53:43 [INFO] /depth: Display your depth related to sea-level.
+2016-6-19 18:53:43 [INFO] /difficulty: Sets the game difficulty
+2016-6-19 18:53:43 [INFO] /effect: Adds/Removes effects on players
+2016-6-19 18:53:43 [INFO] /enchant: Adds enchantments on items
+2016-6-19 18:53:43 [INFO] /extinguish: Extinguish a player.
+2016-6-19 18:53:43 [INFO] /fly: Fly in Survival or Adventure mode.
+2016-6-19 18:53:43 [INFO] /gamemode: Changes the player to a specific game mode
+2016-6-19 18:53:43 [INFO] /getpos: Get your/other's position
+2016-6-19 18:53:43 [INFO] /give: Gives the specified player a certain amount of items
+2016-6-19 18:53:43 [INFO] /god: Prevent you to take any damage.
+2016-6-19 18:53:43 [INFO] /heal: Heal yourself or other player.
+2016-6-19 18:53:43 [INFO] /help: Shows the help menu
+2016-6-19 18:53:43 [INFO] /item: Manages the list of blocked items and blocks.
+2016-6-19 18:53:43 [INFO] /itemdb: Display the information attached to the item you hold.
+2016-6-19 18:53:43 [INFO] /jump: Teleport you to the block you're looking at.
+2016-6-19 18:53:43 [INFO] /kick: Removes the specified player from the server
+2016-6-19 18:53:43 [INFO] /kickall: Kick all the players.
+2016-6-19 18:53:43 [INFO] /kill: Commit suicide or kill other players
+2016-6-19 18:53:43 [INFO] /list: Lists all online players
+2016-6-19 18:53:43 [INFO] /login: /login <password> - login to server
+2016-6-19 18:53:43 [INFO] /logoff: /logoff - logoff from server (to prevent autologin time)
+2016-6-19 18:53:43 [INFO] /me: Performs the specified action in chat
+2016-6-19 18:53:43 [INFO] /more: Get a stack of the item you're holding.
+2016-6-19 18:53:43 [INFO] /mute: Mute a player.
+2016-6-19 18:53:43 [INFO] /nuke: Change your speed limits.
+2016-6-19 18:53:43 [INFO] /op: Gives the specified player operator status
+2016-6-19 18:53:43 [INFO] /pardon: Allows the specified player to use this server
+2016-6-19 18:53:43 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2016-6-19 18:53:43 [INFO] /particle: Adds particles to a world
+2016-6-19 18:53:43 [INFO] /pcc: Clear personal chat
+2016-6-19 18:53:43 [INFO] /plugins: Gets a list of plugins running on the server
+2016-6-19 18:53:43 [INFO] /realname: Check the realname of a player.
+2016-6-19 18:53:43 [INFO] /register: /register <password> [password] - register player on server
+2016-6-19 18:53:43 [INFO] /reload: Reloads the server configuration and plugins
+2016-6-19 18:53:43 [INFO] /repair: Repair the item you're holding.
+2016-6-19 18:53:43 [INFO] /save-all: Saves the server to disk
+2016-6-19 18:53:43 [INFO] /save-off: Disables server autosaving
+2016-6-19 18:53:43 [INFO] /save-on: Enables server autosaving
+2016-6-19 18:53:43 [INFO] /saveinv: Keep your inventory after death.
+2016-6-19 18:53:43 [INFO] /say: Broadcasts the given message as the sender
+2016-6-19 18:53:43 [INFO] /scc: Clear global chat
+2016-6-19 18:53:43 [INFO] /seed: Shows the world seed
+2016-6-19 18:53:43 [INFO] /setspawn: Change your server main spawn point.
+2016-6-19 18:53:43 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2016-6-19 18:53:43 [INFO] /showinfo: Comamnd of ShowInfo
+2016-6-19 18:53:43 [INFO] /spawn: Teleport to server's main spawn.
+2016-6-19 18:53:43 [INFO] /spawnall: Teleports all players to spawn.
+2016-6-19 18:53:43 [INFO] /spawnpoint: Sets a player's spawn point
+2016-6-19 18:53:43 [INFO] /speed: Change your speed limits.
+2016-6-19 18:53:43 [INFO] /stop: Stops the server
+2016-6-19 18:53:43 [INFO] /sudo: Run a command as another player.
+2016-6-19 18:53:43 [INFO] /suicide: Kill yourself.
+2016-6-19 18:53:43 [INFO] /tell: Sends a private message to the given player
+2016-6-19 18:53:43 [INFO] /time: Changes the time on each world
+2016-6-19 18:53:43 [INFO] /toolspro: Shows information about the plugin.
+2016-6-19 18:53:43 [INFO] /top: Teleport to the highest block above you.
+2016-6-19 18:53:43 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2016-6-19 18:53:43 [INFO] /tree: Teleport to the highest block above you.
+2016-6-19 18:53:43 [INFO] /unmute: Unmute a player.
+2016-6-19 18:53:43 [INFO] /unregister: /unregister <password> - unregister from server
+2016-6-19 18:53:43 [INFO] /vanish: Hide from other players.
+2016-6-19 18:53:43 [INFO] /version: Gets the version of this server including any plugins in use
+2016-6-19 18:53:43 [INFO] /weather: Sets the weather in current world
+2016-6-19 18:53:43 [INFO] /welcome: /welcome - Welcome plugin command
+2016-6-19 18:53:43 [INFO] /whitelist: Manages the list of players allowed to use this server
+2016-6-19 18:53:43 [INFO] /world: Commands for working with the worlds
+2016-6-19 18:53:43 [INFO] /xp: Gives the specified player a certain amount of experience
+2016-6-19 18:53:52 [INFO] [Tree] Please run this command in game!
+2016-6-19 18:54:01 [INFO] Unknown command. Try /help for a list of commands
+2016-6-19 18:54:16 [INFO] Redstonemaster87 left the game
+2016-6-19 18:54:16 [INFO] Redstonemaster87[/192.168.0.10:19132] logged out due to client disconnect
+2016-6-19 18:54:38 [INFO] Unknown command. Try /help for a list of commands
+2016-6-19 18:54:40 [INFO] Use this command in-game only!
+2016-6-20 16:07:00 [INFO] Loading nukkit.yml...
+2016-6-20 16:07:00 [INFO] Loading server properties...
+2016-6-20 16:07:00 [INFO] Selected English (eng) as the base language
+2016-6-20 16:07:00 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 16:07:01 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 16:07:01 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 16:07:01 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 16:07:02 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 16:07:02 [INFO] Loading Borders v0.0.3
+2016-6-20 16:07:03 [INFO] Loading ProtectWorld v1.0
+2016-6-20 16:07:03 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 16:07:03 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 16:07:03 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 16:07:03 [INFO] Loading WorldEdit v1.0
+2016-6-20 16:07:03 [INFO] Loading Welcome v0.1.5
+2016-6-20 16:07:04 [INFO] Preparing level "Grand Plaza"
+2016-6-20 16:07:04 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 16:07:04 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 16:07:04 [INFO] Enabling Borders v0.0.3
+2016-6-20 16:07:04 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 16:07:04 [INFO] Enabling ProtectWorld v1.0
+2016-6-20 16:07:04 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-20 16:07:04 [INFO] Enabling ShowInfo v1.0.0
+2016-6-20 16:07:04 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-20 16:07:04 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-20 16:07:04 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-20 16:07:04 [INFO] Enabling Social-ClearChat v1.0
+2016-6-20 16:07:04 [INFO] -----------------------
+2016-6-20 16:07:04 [INFO] |      Enabled!       |
+2016-6-20 16:07:04 [INFO] |   Social-ClearChat  |
+2016-6-20 16:07:04 [INFO] |         by          |
+2016-6-20 16:07:04 [INFO] |      augesrob       |
+2016-6-20 16:07:04 [INFO] -----------------------
+2016-6-20 16:07:04 [INFO] Enabling ToolsPro v0.0.4
+2016-6-20 16:07:05 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-20 16:07:05 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-20 16:07:05 [INFO] Enabling WorldEdit v1.0
+2016-6-20 16:07:05 [INFO] Enabling Welcome v0.1.5
+2016-6-20 16:07:05 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-20 16:07:05 [INFO] Starting GS4 status listener
+2016-6-20 16:07:05 [INFO] Setting query port to 19132
+2016-6-20 16:07:05 [INFO] Query running on 0.0.0.0:19132
+2016-6-20 16:07:05 [INFO] Default game type: Survival Mode
+2016-6-20 16:07:05 [INFO] Done (6.747s)! For help, type "help" or "?"
+2016-6-20 16:08:10 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 141.5921, 112.3738, -6.1617)
+2016-6-20 16:17:34 [INFO] Loading nukkit.yml...
+2016-6-20 16:17:34 [INFO] Loading server properties...
+2016-6-20 16:17:34 [INFO] Selected English (eng) as the base language
+2016-6-20 16:17:34 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 16:17:34 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 16:17:34 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 16:17:34 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 16:17:35 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 16:17:35 [INFO] Loading Borders v0.0.3
+2016-6-20 16:17:35 [INFO] Loading ProtectWorld v1.0
+2016-6-20 16:17:35 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 16:17:35 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 16:17:36 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 16:17:36 [INFO] Loading WorldEdit v1.0
+2016-6-20 16:17:36 [INFO] Loading Welcome v0.1.5
+2016-6-20 16:17:36 [INFO] Preparing level "Grand Plaza"
+2016-6-20 16:17:36 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 16:17:36 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 16:17:36 [INFO] Enabling Borders v0.0.3
+2016-6-20 16:17:37 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 16:17:37 [INFO] Enabling ProtectWorld v1.0
+2016-6-20 16:17:37 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-20 16:17:37 [INFO] Enabling ShowInfo v1.0.0
+2016-6-20 16:17:37 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-20 16:17:37 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-20 16:17:37 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-20 16:17:37 [INFO] Enabling Social-ClearChat v1.0
+2016-6-20 16:17:37 [INFO] -----------------------
+2016-6-20 16:17:37 [INFO] |      Enabled!       |
+2016-6-20 16:17:37 [INFO] |   Social-ClearChat  |
+2016-6-20 16:17:37 [INFO] |         by          |
+2016-6-20 16:17:37 [INFO] |      augesrob       |
+2016-6-20 16:17:37 [INFO] -----------------------
+2016-6-20 16:17:37 [INFO] Enabling ToolsPro v0.0.4
+2016-6-20 16:17:37 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-20 16:17:38 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-20 16:17:38 [INFO] Enabling WorldEdit v1.0
+2016-6-20 16:17:38 [INFO] Enabling Welcome v0.1.5
+2016-6-20 16:17:38 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-20 16:17:38 [INFO] Starting GS4 status listener
+2016-6-20 16:17:38 [INFO] Setting query port to 19132
+2016-6-20 16:17:38 [INFO] Query running on 0.0.0.0:19132
+2016-6-20 16:17:38 [INFO] Default game type: Survival Mode
+2016-6-20 16:17:38 [INFO] Done (4.798s)! For help, type "help" or "?"
+2016-6-20 16:18:19 [INFO] Unknown command. Try /help for a list of commands
+2016-6-20 16:52:27 [INFO] Unknown command. Try /help for a list of commands
+2016-6-20 16:52:51 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 141.5921, 112.3738, -6.1617)
+2016-6-20 16:53:10 [INFO] [Welcome] Player Redstonemaster87 logged-in!
+2016-6-20 16:54:49 [NOTICE] Player data not found for "nicolas_555", creating new profile
+2016-6-20 16:54:49 [INFO] Nicolas_555[/192.168.0.10:19132] logged in with entity id 21 at (Grand Plaza, 340.0, 4.0, 4.0)
+2016-6-20 16:55:17 [INFO] --- Showing help page 1 of 1 (/help <page>) ---
+2016-6-20 16:55:17 [INFO] //: View available WorldEdit commands.
+2016-6-20 16:55:17 [INFO] /antioch: Holy hand grenade.
+2016-6-20 16:55:17 [INFO] /ban: Prevents the specified player from using this server
+2016-6-20 16:55:17 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2016-6-20 16:55:17 [INFO] /banlist: View all players banned from this server
+2016-6-20 16:55:17 [INFO] /border: Border command (type /border help)
+2016-6-20 16:55:17 [INFO] /break: Breaks the block you're looking at.
+2016-6-20 16:55:17 [INFO] /broadcast: Broadcast a message.
+2016-6-20 16:55:17 [INFO] /burn: Set a player on fire.
+2016-6-20 16:55:17 [INFO] /changepassword: /changepassword <password> <newPassword> <newPassword> - change password
+2016-6-20 16:55:17 [INFO] /clearhotbar: Clear your/other's hot-bar.
+2016-6-20 16:55:17 [INFO] /clearinventory: Clear your/other's inventory.
+2016-6-20 16:55:17 [INFO] /compass: Display your current bearing direction.
+2016-6-20 16:55:17 [INFO] /defaultgamemode: Set the default gamemode
+2016-6-20 16:55:17 [INFO] /deop: Takes the specified player's operator status
+2016-6-20 16:55:17 [INFO] /depth: Display your depth related to sea-level.
+2016-6-20 16:55:17 [INFO] /difficulty: Sets the game difficulty
+2016-6-20 16:55:17 [INFO] /effect: Adds/Removes effects on players
+2016-6-20 16:55:17 [INFO] /enchant: Adds enchantments on items
+2016-6-20 16:55:17 [INFO] /extinguish: Extinguish a player.
+2016-6-20 16:55:17 [INFO] /fly: Fly in Survival or Adventure mode.
+2016-6-20 16:55:17 [INFO] /gamemode: Changes the player to a specific game mode
+2016-6-20 16:55:17 [INFO] /getpos: Get your/other's position
+2016-6-20 16:55:17 [INFO] /give: Gives the specified player a certain amount of items
+2016-6-20 16:55:17 [INFO] /god: Prevent you to take any damage.
+2016-6-20 16:55:17 [INFO] /heal: Heal yourself or other player.
+2016-6-20 16:55:17 [INFO] /help: Shows the help menu
+2016-6-20 16:55:17 [INFO] /item: Manages the list of blocked items and blocks.
+2016-6-20 16:55:17 [INFO] /itemdb: Display the information attached to the item you hold.
+2016-6-20 16:55:17 [INFO] /jump: Teleport you to the block you're looking at.
+2016-6-20 16:55:17 [INFO] /kick: Removes the specified player from the server
+2016-6-20 16:55:17 [INFO] /kickall: Kick all the players.
+2016-6-20 16:55:17 [INFO] /kill: Commit suicide or kill other players
+2016-6-20 16:55:17 [INFO] /list: Lists all online players
+2016-6-20 16:55:17 [INFO] /login: /login <password> - login to server
+2016-6-20 16:55:17 [INFO] /logoff: /logoff - logoff from server (to prevent autologin time)
+2016-6-20 16:55:17 [INFO] /me: Performs the specified action in chat
+2016-6-20 16:55:17 [INFO] /more: Get a stack of the item you're holding.
+2016-6-20 16:55:17 [INFO] /mute: Mute a player.
+2016-6-20 16:55:17 [INFO] /nuke: Change your speed limits.
+2016-6-20 16:55:17 [INFO] /op: Gives the specified player operator status
+2016-6-20 16:55:18 [INFO] /pardon: Allows the specified player to use this server
+2016-6-20 16:55:18 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2016-6-20 16:55:18 [INFO] /particle: Adds particles to a world
+2016-6-20 16:55:18 [INFO] /pcc: Clear personal chat
+2016-6-20 16:55:18 [INFO] /plugins: Gets a list of plugins running on the server
+2016-6-20 16:55:18 [INFO] /realname: Check the realname of a player.
+2016-6-20 16:55:18 [INFO] /register: /register <password> [password] - register player on server
+2016-6-20 16:55:18 [INFO] /reload: Reloads the server configuration and plugins
+2016-6-20 16:55:18 [INFO] /repair: Repair the item you're holding.
+2016-6-20 16:55:18 [INFO] /save-all: Saves the server to disk
+2016-6-20 16:55:18 [INFO] /save-off: Disables server autosaving
+2016-6-20 16:55:18 [INFO] /save-on: Enables server autosaving
+2016-6-20 16:55:18 [INFO] /saveinv: Keep your inventory after death.
+2016-6-20 16:55:18 [INFO] /say: Broadcasts the given message as the sender
+2016-6-20 16:55:18 [INFO] /scc: Clear global chat
+2016-6-20 16:55:18 [INFO] /seed: Shows the world seed
+2016-6-20 16:55:18 [INFO] /setspawn: Change your server main spawn point.
+2016-6-20 16:55:18 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2016-6-20 16:55:18 [INFO] /showinfo: Comamnd of ShowInfo
+2016-6-20 16:55:18 [INFO] /spawn: Teleport to server's main spawn.
+2016-6-20 16:55:18 [INFO] /spawnall: Teleports all players to spawn.
+2016-6-20 16:55:18 [INFO] /spawnpoint: Sets a player's spawn point
+2016-6-20 16:55:18 [INFO] /speed: Change your speed limits.
+2016-6-20 16:55:18 [INFO] /stop: Stops the server
+2016-6-20 16:55:18 [INFO] /sudo: Run a command as another player.
+2016-6-20 16:55:18 [INFO] /suicide: Kill yourself.
+2016-6-20 16:55:18 [INFO] /tell: Sends a private message to the given player
+2016-6-20 16:55:18 [INFO] /time: Changes the time on each world
+2016-6-20 16:55:18 [INFO] /toolspro: Shows information about the plugin.
+2016-6-20 16:55:18 [INFO] /top: Teleport to the highest block above you.
+2016-6-20 16:55:18 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2016-6-20 16:55:18 [INFO] /tree: Teleport to the highest block above you.
+2016-6-20 16:55:18 [INFO] /unmute: Unmute a player.
+2016-6-20 16:55:18 [INFO] /unregister: /unregister <password> - unregister from server
+2016-6-20 16:55:18 [INFO] /vanish: Hide from other players.
+2016-6-20 16:55:18 [INFO] /version: Gets the version of this server including any plugins in use
+2016-6-20 16:55:18 [INFO] /weather: Sets the weather in current world
+2016-6-20 16:55:18 [INFO] /welcome: /welcome - Welcome plugin command
+2016-6-20 16:55:18 [INFO] /whitelist: Manages the list of players allowed to use this server
+2016-6-20 16:55:18 [INFO] /world: Commands for working with the worlds
+2016-6-20 16:55:18 [INFO] /xp: Gives the specified player a certain amount of experience
+2016-6-20 16:56:22 [INFO] [BanItem] Usage: /item <ban|unban> <ID>
+2016-6-20 16:57:25 [INFO] <Redstonemaster87> op
+2016-6-20 16:57:39 [INFO] Redstonemaster87 left the game
+2016-6-20 16:57:39 [INFO] Redstonemaster87[/192.168.0.16:19132] logged out due to client disconnect
+2016-6-20 16:57:39 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 22 at (Grand Plaza, 379.3, 4.0, 90.8477)
+2016-6-20 16:57:39 [INFO] Redstonemaster87[/192.168.0.16:19132] logged out due to client disconnect
+2016-6-20 16:57:54 [INFO] [/192.168.0.16:19132] logged out due to Login timeout
+2016-6-20 16:57:56 [INFO] Nicolas_555 left the game
+2016-6-20 16:57:56 [INFO] Nicolas_555[/192.168.0.10:19132] logged out due to Time out! Next time type /login <password> to join the game!
+2016-6-20 16:58:19 [INFO] Unknown command. Try /help for a list of commands
+2016-6-20 16:58:21 [INFO] [CONSOLE: Stopping the server]
+2016-6-20 16:58:21 [INFO] Disabling BattleWorlds v1.0.0
+2016-6-20 16:58:21 [INFO] [BattleWorlds] BattleWorlds was disabled
+2016-6-20 16:58:21 [INFO] Disabling Borders v0.0.3
+2016-6-20 16:58:21 [INFO] Disabling ProtectWorld v1.0
+2016-6-20 16:58:21 [INFO] [ProtectWorld] ProtectWorld was disabled.
+2016-6-20 16:58:21 [INFO] Disabling ShowInfo v1.0.0
+2016-6-20 16:58:21 [INFO] Disabling Social-ClearChat v1.0
+2016-6-20 16:58:21 [INFO] -----------------------
+2016-6-20 16:58:21 [INFO] |      Disabled!      |
+2016-6-20 16:58:21 [INFO] |   Social-ClearChat  |
+2016-6-20 16:58:21 [INFO] |         by          |
+2016-6-20 16:58:21 [INFO] |      augesrob       |
+2016-6-20 16:58:21 [INFO] -----------------------
+2016-6-20 16:58:21 [INFO] Disabling ToolsPro v0.0.4
+2016-6-20 16:58:21 [INFO] [ToolsPro] ToolsPro successfully disabled!
+2016-6-20 16:58:21 [INFO] Disabling WorldEdit v1.0
+2016-6-20 16:58:21 [INFO] Disabling Welcome v0.1.5
+2016-6-20 16:58:21 [INFO] Unloading level "Grand Plaza"
+2016-6-20 16:58:21 [INFO] Stopping other threads
+2016-6-20 16:58:26 [INFO] Loading nukkit.yml...
+2016-6-20 16:58:26 [INFO] Loading server properties...
+2016-6-20 16:58:26 [INFO] Selected English (eng) as the base language
+2016-6-20 16:58:26 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 16:58:27 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 16:58:27 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 16:58:27 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 16:58:28 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 16:58:28 [INFO] Loading Borders v0.0.3
+2016-6-20 16:58:28 [INFO] Loading ProtectWorld v1.0
+2016-6-20 16:58:28 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 16:58:28 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 16:58:28 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 16:58:28 [INFO] Loading WorldEdit v1.0
+2016-6-20 16:58:28 [INFO] Loading Welcome v0.1.5
+2016-6-20 16:58:29 [INFO] Preparing level "Grand Plaza"
+2016-6-20 16:58:29 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 16:58:29 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 16:58:29 [INFO] Enabling Borders v0.0.3
+2016-6-20 16:58:29 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 16:58:29 [INFO] Enabling ProtectWorld v1.0
+2016-6-20 16:58:29 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-20 16:58:29 [INFO] Enabling ShowInfo v1.0.0
+2016-6-20 16:58:29 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-20 16:58:29 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-20 16:58:29 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-20 16:58:29 [INFO] Enabling Social-ClearChat v1.0
+2016-6-20 16:58:29 [INFO] -----------------------
+2016-6-20 16:58:29 [INFO] |      Enabled!       |
+2016-6-20 16:58:29 [INFO] |   Social-ClearChat  |
+2016-6-20 16:58:29 [INFO] |         by          |
+2016-6-20 16:58:30 [INFO] |      augesrob       |
+2016-6-20 16:58:30 [INFO] -----------------------
+2016-6-20 16:58:30 [INFO] Enabling ToolsPro v0.0.4
+2016-6-20 16:58:30 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-20 16:58:30 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-20 16:58:30 [INFO] Enabling WorldEdit v1.0
+2016-6-20 16:58:30 [INFO] Enabling Welcome v0.1.5
+2016-6-20 16:58:30 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-20 16:58:30 [INFO] Starting GS4 status listener
+2016-6-20 16:58:30 [INFO] Setting query port to 19132
+2016-6-20 16:58:31 [INFO] Query running on 0.0.0.0:19132
+2016-6-20 16:58:31 [INFO] Default game type: Survival Mode
+2016-6-20 16:58:31 [INFO] Done (5.115s)! For help, type "help" or "?"
+2016-6-20 16:58:33 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 379.3, 4.0, 90.8477)
+2016-6-20 16:58:48 [INFO] [Welcome] Player Redstonemaster87 logged-in!
+2016-6-20 16:59:11 [INFO] Nicolas_555[/192.168.0.10:19132] logged in with entity id 2 at (Grand Plaza, 340.0, 4.0, 4.0)
+2016-6-20 16:59:29 [INFO] [Welcome] Player Nicolas_555 registered!
+2016-6-20 16:59:34 [INFO] <Redstonemaster87> Hi
+2016-6-20 17:00:47 [INFO] [Redstonemaster87: Teleported Redstonemaster87 to Nicolas_555]
+2016-6-20 17:03:48 [INFO] <Redstonemaster87> {BOLD} a
+2016-6-20 17:04:26 [INFO] [CONSOLE: Stopping the server]
+2016-6-20 17:04:26 [INFO] Disabling BattleWorlds v1.0.0
+2016-6-20 17:04:26 [INFO] [BattleWorlds] BattleWorlds was disabled
+2016-6-20 17:04:26 [INFO] Disabling Borders v0.0.3
+2016-6-20 17:04:26 [INFO] Disabling ProtectWorld v1.0
+2016-6-20 17:04:26 [INFO] [ProtectWorld] ProtectWorld was disabled.
+2016-6-20 17:04:26 [INFO] Disabling ShowInfo v1.0.0
+2016-6-20 17:04:26 [INFO] Disabling Social-ClearChat v1.0
+2016-6-20 17:04:26 [INFO] -----------------------
+2016-6-20 17:04:26 [INFO] |      Disabled!      |
+2016-6-20 17:04:26 [INFO] |   Social-ClearChat  |
+2016-6-20 17:04:26 [INFO] |         by          |
+2016-6-20 17:04:26 [INFO] |      augesrob       |
+2016-6-20 17:04:26 [INFO] -----------------------
+2016-6-20 17:04:26 [INFO] Disabling ToolsPro v0.0.4
+2016-6-20 17:04:26 [INFO] [ToolsPro] ToolsPro successfully disabled!
+2016-6-20 17:04:26 [INFO] Disabling WorldEdit v1.0
+2016-6-20 17:04:26 [INFO] Disabling Welcome v0.1.5
+2016-6-20 17:04:26 [INFO] Redstonemaster87 left the game
+2016-6-20 17:04:26 [INFO] Redstonemaster87[/192.168.0.16:19132] logged out due to Server closed
+2016-6-20 17:04:26 [INFO] Nicolas_555 left the game
+2016-6-20 17:04:26 [INFO] Nicolas_555[/192.168.0.10:19132] logged out due to Server closed
+2016-6-20 17:04:26 [INFO] Unloading level "Grand Plaza"
+2016-6-20 17:04:27 [INFO] Stopping other threads
+2016-6-20 17:04:39 [INFO] Loading nukkit.yml...
+2016-6-20 17:04:40 [INFO] Loading server properties...
+2016-6-20 17:04:40 [INFO] Selected English (eng) as the base language
+2016-6-20 17:04:40 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 17:04:40 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 17:04:40 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 17:04:40 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 17:04:41 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 17:04:41 [INFO] Loading Borders v0.0.3
+2016-6-20 17:04:42 [INFO] Loading ProtectWorld v1.0
+2016-6-20 17:04:42 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 17:04:42 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 17:04:42 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 17:04:42 [INFO] Loading WorldEdit v1.0
+2016-6-20 17:04:42 [INFO] Loading Welcome v0.1.5
+2016-6-20 17:04:43 [INFO] Preparing level "Grand Plaza"
+2016-6-20 17:04:43 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 17:04:43 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 17:04:43 [INFO] Enabling Borders v0.0.3
+2016-6-20 17:04:43 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 17:04:43 [INFO] Enabling ProtectWorld v1.0
+2016-6-20 17:04:43 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-20 17:04:43 [INFO] Enabling ShowInfo v1.0.0
+2016-6-20 17:04:43 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-20 17:04:43 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-20 17:04:43 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-20 17:04:43 [INFO] Enabling Social-ClearChat v1.0
+2016-6-20 17:04:44 [INFO] -----------------------
+2016-6-20 17:04:44 [INFO] |      Enabled!       |
+2016-6-20 17:04:44 [INFO] |   Social-ClearChat  |
+2016-6-20 17:04:44 [INFO] |         by          |
+2016-6-20 17:04:44 [INFO] |      augesrob       |
+2016-6-20 17:04:44 [INFO] -----------------------
+2016-6-20 17:04:44 [INFO] Enabling ToolsPro v0.0.4
+2016-6-20 17:04:44 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-20 17:04:44 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-20 17:04:44 [INFO] Enabling WorldEdit v1.0
+2016-6-20 17:04:44 [INFO] Enabling Welcome v0.1.5
+2016-6-20 17:04:44 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-20 17:04:44 [INFO] Starting GS4 status listener
+2016-6-20 17:04:44 [INFO] Setting query port to 19132
+2016-6-20 17:04:44 [INFO] Query running on 0.0.0.0:19132
+2016-6-20 17:04:44 [INFO] Default game type: Survival Mode
+2016-6-20 17:04:44 [INFO] Done (5.351s)! For help, type "help" or "?"
+2016-6-20 17:04:47 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 144.9551, 4.0, 160.653)
+2016-6-20 17:04:55 [WARNING] Can't keep up! Is the server overloaded?
+2016-6-20 17:04:57 [INFO] Nicolas_555[/192.168.0.10:19132] logged in with entity id 2 at (Grand Plaza, 420.8593, 40.6028, 47.4812)
+2016-6-20 17:05:02 [INFO] [Welcome] Player Redstonemaster87 logged-in!
+2016-6-20 17:05:30 [INFO] [Welcome] Player Nicolas_555 logged-in!
+2016-6-20 17:08:20 [INFO] Nicolas_555 left the game
+2016-6-20 17:08:20 [INFO] Nicolas_555[/192.168.0.10:19132] logged out due to client disconnect
+2016-6-20 17:10:19 [INFO] Unknown command. Try /help for a list of commands
+2016-6-20 17:10:22 [INFO] Redstonemaster87 left the game
+2016-6-20 17:10:22 [INFO] Redstonemaster87[/192.168.0.16:19132] logged out due to timeout
+2016-6-20 17:10:25 [INFO] [CONSOLE: Stopping the server]
+2016-6-20 17:10:26 [INFO] Disabling BattleWorlds v1.0.0
+2016-6-20 17:10:26 [INFO] [BattleWorlds] BattleWorlds was disabled
+2016-6-20 17:10:26 [INFO] Disabling Borders v0.0.3
+2016-6-20 17:10:26 [INFO] Disabling ProtectWorld v1.0
+2016-6-20 17:10:26 [INFO] [ProtectWorld] ProtectWorld was disabled.
+2016-6-20 17:10:26 [INFO] Disabling ShowInfo v1.0.0
+2016-6-20 17:10:26 [INFO] Disabling Social-ClearChat v1.0
+2016-6-20 17:10:26 [INFO] -----------------------
+2016-6-20 17:10:26 [INFO] |      Disabled!      |
+2016-6-20 17:10:26 [INFO] |   Social-ClearChat  |
+2016-6-20 17:10:26 [INFO] |         by          |
+2016-6-20 17:10:26 [INFO] |      augesrob       |
+2016-6-20 17:10:26 [INFO] -----------------------
+2016-6-20 17:10:26 [INFO] Disabling ToolsPro v0.0.4
+2016-6-20 17:10:26 [INFO] [ToolsPro] ToolsPro successfully disabled!
+2016-6-20 17:10:26 [INFO] Disabling WorldEdit v1.0
+2016-6-20 17:10:26 [INFO] Disabling Welcome v0.1.5
+2016-6-20 17:10:26 [INFO] Unloading level "Grand Plaza"
+2016-6-20 17:10:26 [INFO] Stopping other threads
+2016-6-20 17:14:18 [INFO] Loading nukkit.yml...
+2016-6-20 17:14:19 [INFO] Loading server properties...
+2016-6-20 17:14:19 [INFO] Selected English (eng) as the base language
+2016-6-20 17:14:19 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 17:14:19 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 17:14:19 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 17:14:19 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 17:14:21 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 17:14:21 [INFO] Loading Borders v0.0.3
+2016-6-20 17:14:21 [CRITICAL] Could not load plugin 'EconomyLand': Unknown dependency
+2016-6-20 17:14:21 [INFO] Loading EconomySell v1.0.1
+2016-6-20 17:14:21 [INFO] Loading EconomyShop v1.0.1
+2016-6-20 17:14:21 [INFO] Loading ProtectWorld v1.0
+2016-6-20 17:14:21 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 17:14:21 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 17:14:21 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 17:14:21 [INFO] Loading WorldEdit v1.0
+2016-6-20 17:14:21 [CRITICAL] Could not load plugin 'EconomyLand': Unknown dependency
+2016-6-20 17:14:21 [INFO] Loading Welcome v0.1.5
+2016-6-20 17:14:21 [CRITICAL] Could not load plugin 'EconomyLand': Unknown dependency
+2016-6-20 17:14:21 [CRITICAL] Could not load plugin 'EconomyLand': Circular dependency detected
+2016-6-20 17:14:22 [INFO] Preparing level "Grand Plaza"
+2016-6-20 17:14:22 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 17:14:22 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 17:14:22 [INFO] Enabling Borders v0.0.3
+2016-6-20 17:14:22 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 17:14:22 [INFO] Enabling EconomySell v1.0.1
+2016-6-20 17:15:17 [INFO] Loading nukkit.yml...
+2016-6-20 17:15:18 [INFO] Loading server properties...
+2016-6-20 17:15:18 [INFO] Selected English (eng) as the base language
+2016-6-20 17:15:18 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 17:15:18 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 17:15:18 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 17:15:18 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 17:15:19 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 17:15:20 [INFO] Loading Borders v0.0.3
+2016-6-20 17:15:20 [INFO] Loading EconomySell v1.0.1
+2016-6-20 17:15:20 [INFO] Loading EconomyShop v1.0.1
+2016-6-20 17:15:20 [INFO] Loading ProtectWorld v1.0
+2016-6-20 17:15:20 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 17:15:20 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 17:15:20 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 17:15:20 [INFO] Loading WorldEdit v1.0
+2016-6-20 17:15:20 [INFO] Loading Welcome v0.1.5
+2016-6-20 17:15:20 [INFO] Preparing level "Grand Plaza"
+2016-6-20 17:15:20 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 17:15:20 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 17:15:20 [INFO] Enabling Borders v0.0.3
+2016-6-20 17:15:21 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 17:15:21 [INFO] Enabling EconomySell v1.0.1
+2016-6-20 17:16:11 [INFO] Loading nukkit.yml...
+2016-6-20 17:16:12 [INFO] Loading server properties...
+2016-6-20 17:16:12 [INFO] Selected English (eng) as the base language
+2016-6-20 17:16:12 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 17:16:12 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 17:16:12 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 17:16:12 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 17:16:13 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 17:16:13 [INFO] Loading Borders v0.0.3
+2016-6-20 17:16:13 [INFO] Loading EconomyShop v1.0.1
+2016-6-20 17:16:13 [INFO] Loading ProtectWorld v1.0
+2016-6-20 17:16:13 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 17:16:13 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 17:16:13 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 17:16:14 [INFO] Loading WorldEdit v1.0
+2016-6-20 17:16:14 [INFO] Loading Welcome v0.1.5
+2016-6-20 17:16:14 [INFO] Preparing level "Grand Plaza"
+2016-6-20 17:16:14 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 17:16:14 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 17:16:14 [INFO] Enabling Borders v0.0.3
+2016-6-20 17:16:14 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 17:16:14 [INFO] Enabling EconomyShop v1.0.1
+2016-6-20 20:06:35 [INFO] Loading nukkit.yml...
+2016-6-20 20:06:36 [INFO] Loading server properties...
+2016-6-20 20:06:36 [INFO] Selected English (eng) as the base language
+2016-6-20 20:06:36 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 20:06:36 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 20:06:36 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 20:06:36 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 20:06:38 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 20:06:38 [INFO] Loading Borders v0.0.3
+2016-6-20 20:06:38 [INFO] Loading ProtectWorld v1.0
+2016-6-20 20:06:38 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 20:06:38 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 20:06:38 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 20:06:38 [INFO] Loading WorldEdit v1.0
+2016-6-20 20:06:38 [INFO] Loading Welcome v0.1.5
+2016-6-20 20:06:38 [INFO] Preparing level "Grand Plaza"
+2016-6-20 20:06:38 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 20:06:38 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 20:06:38 [INFO] Enabling Borders v0.0.3
+2016-6-20 20:06:39 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 20:06:39 [INFO] Enabling ProtectWorld v1.0
+2016-6-20 20:06:39 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-20 20:06:39 [INFO] Enabling ShowInfo v1.0.0
+2016-6-20 20:06:39 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-20 20:06:39 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-20 20:06:39 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-20 20:06:39 [INFO] Enabling Social-ClearChat v1.0
+2016-6-20 20:06:39 [INFO] -----------------------
+2016-6-20 20:06:39 [INFO] |      Enabled!       |
+2016-6-20 20:06:39 [INFO] |   Social-ClearChat  |
+2016-6-20 20:06:39 [INFO] |         by          |
+2016-6-20 20:06:39 [INFO] |      augesrob       |
+2016-6-20 20:06:39 [INFO] -----------------------
+2016-6-20 20:06:39 [INFO] Enabling ToolsPro v0.0.4
+2016-6-20 20:06:39 [INFO] [ToolsPro] When you search for updates of the plugin's happened error!
+2016-6-20 20:06:39 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-20 20:06:39 [INFO] Enabling WorldEdit v1.0
+2016-6-20 20:06:39 [INFO] Enabling Welcome v0.1.5
+2016-6-20 20:06:39 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-20 20:06:39 [INFO] Starting GS4 status listener
+2016-6-20 20:06:39 [INFO] Setting query port to 19132
+2016-6-20 20:06:39 [INFO] Query running on 0.0.0.0:19132
+2016-6-20 20:06:39 [INFO] Default game type: Survival Mode
+2016-6-20 20:06:39 [INFO] Done (4.542s)! For help, type "help" or "?"
+2016-6-20 20:07:28 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 253.4104, 4.0, 45.925)
+2016-6-20 20:07:44 [INFO] [Welcome] Player Redstonemaster87 logged-in!
+2016-6-20 20:08:38 [INFO] Loading nukkit.yml...
+2016-6-20 20:08:38 [INFO] Loading server properties...
+2016-6-20 20:08:38 [INFO] Selected English (eng) as the base language
+2016-6-20 20:08:38 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 20:08:39 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 20:08:39 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 20:08:39 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 20:08:40 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 20:08:40 [INFO] Loading Borders v0.0.3
+2016-6-20 20:08:40 [INFO] Loading ProtectWorld v1.0
+2016-6-20 20:08:40 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 20:08:40 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 20:08:40 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 20:08:40 [INFO] Loading WorldEdit v1.0
+2016-6-20 20:08:40 [INFO] Loading Welcome v0.1.5
+2016-6-20 20:08:40 [INFO] Preparing level "Grand Plaza"
+2016-6-20 20:08:40 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 20:08:40 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 20:08:40 [INFO] Enabling Borders v0.0.3
+2016-6-20 20:08:41 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 20:08:41 [INFO] Enabling ProtectWorld v1.0
+2016-6-20 20:08:41 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-20 20:08:41 [INFO] Enabling ShowInfo v1.0.0
+2016-6-20 20:08:41 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-20 20:08:41 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-20 20:08:41 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-20 20:08:41 [INFO] Enabling Social-ClearChat v1.0
+2016-6-20 20:08:41 [INFO] -----------------------
+2016-6-20 20:08:41 [INFO] |      Enabled!       |
+2016-6-20 20:08:41 [INFO] |   Social-ClearChat  |
+2016-6-20 20:08:41 [INFO] |         by          |
+2016-6-20 20:08:41 [INFO] |      augesrob       |
+2016-6-20 20:08:41 [INFO] -----------------------
+2016-6-20 20:08:41 [INFO] Enabling ToolsPro v0.0.4
+2016-6-20 20:08:43 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-20 20:08:43 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-20 20:08:43 [INFO] Enabling WorldEdit v1.0
+2016-6-20 20:08:43 [INFO] Enabling Welcome v0.1.5
+2016-6-20 20:08:43 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-20 20:08:43 [INFO] Starting GS4 status listener
+2016-6-20 20:08:43 [INFO] Setting query port to 19132
+2016-6-20 20:08:43 [INFO] Query running on 0.0.0.0:19132
+2016-6-20 20:08:43 [INFO] Default game type: Survival Mode
+2016-6-20 20:08:43 [INFO] Done (5.558s)! For help, type "help" or "?"
+2016-6-20 20:08:48 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 253.4104, 4.0, 45.925)
+2016-6-20 20:10:17 [INFO] Loading nukkit.yml...
+2016-6-20 20:10:17 [INFO] Loading server properties...
+2016-6-20 20:10:17 [INFO] Selected English (eng) as the base language
+2016-6-20 20:10:17 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 20:10:18 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 20:10:18 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 20:10:18 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 20:10:19 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 20:10:19 [INFO] Loading Borders v0.0.3
+2016-6-20 20:10:19 [INFO] Loading ProtectWorld v1.0
+2016-6-20 20:10:19 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 20:10:19 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 20:10:19 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 20:10:19 [INFO] Loading WorldEdit v1.0
+2016-6-20 20:10:19 [INFO] Loading Welcome v0.1.5
+2016-6-20 20:10:20 [INFO] Preparing level "Grand Plaza"
+2016-6-20 20:10:20 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-20 20:10:20 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-20 20:10:20 [INFO] Enabling Borders v0.0.3
+2016-6-20 20:10:20 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-20 20:10:20 [INFO] Enabling ProtectWorld v1.0
+2016-6-20 20:10:20 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-20 20:10:20 [INFO] Enabling ShowInfo v1.0.0
+2016-6-20 20:10:20 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-20 20:10:20 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-20 20:10:20 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-20 20:10:20 [INFO] Enabling Social-ClearChat v1.0
+2016-6-20 20:10:20 [INFO] -----------------------
+2016-6-20 20:10:20 [INFO] |      Enabled!       |
+2016-6-20 20:10:20 [INFO] |   Social-ClearChat  |
+2016-6-20 20:10:20 [INFO] |         by          |
+2016-6-20 20:10:20 [INFO] |      augesrob       |
+2016-6-20 20:10:20 [INFO] -----------------------
+2016-6-20 20:10:21 [INFO] Enabling ToolsPro v0.0.4
+2016-6-20 20:10:21 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-20 20:10:21 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-20 20:10:21 [INFO] Enabling WorldEdit v1.0
+2016-6-20 20:10:21 [INFO] Enabling Welcome v0.1.5
+2016-6-20 20:10:21 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-20 20:10:21 [INFO] Starting GS4 status listener
+2016-6-20 20:10:21 [INFO] Setting query port to 19132
+2016-6-20 20:10:21 [INFO] Query running on 0.0.0.0:19132
+2016-6-20 20:10:21 [INFO] Default game type: Survival Mode
+2016-6-20 20:10:21 [INFO] Done (4.645s)! For help, type "help" or "?"
+2016-6-20 20:10:24 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 253.4104, 4.0, 45.925)
+2016-6-20 20:10:34 [INFO] [CONSOLE: Stopping the server]
+2016-6-20 20:10:34 [INFO] Disabling BattleWorlds v1.0.0
+2016-6-20 20:10:34 [INFO] [BattleWorlds] BattleWorlds was disabled
+2016-6-20 20:10:34 [INFO] Disabling Borders v0.0.3
+2016-6-20 20:10:34 [INFO] Disabling ProtectWorld v1.0
+2016-6-20 20:10:34 [INFO] [ProtectWorld] ProtectWorld was disabled.
+2016-6-20 20:10:34 [INFO] Disabling ShowInfo v1.0.0
+2016-6-20 20:10:34 [INFO] Disabling Social-ClearChat v1.0
+2016-6-20 20:10:34 [INFO] -----------------------
+2016-6-20 20:10:34 [INFO] |      Disabled!      |
+2016-6-20 20:10:34 [INFO] |   Social-ClearChat  |
+2016-6-20 20:10:34 [INFO] |         by          |
+2016-6-20 20:10:34 [INFO] |      augesrob       |
+2016-6-20 20:10:34 [INFO] -----------------------
+2016-6-20 20:10:34 [INFO] Disabling ToolsPro v0.0.4
+2016-6-20 20:10:34 [INFO] [ToolsPro] ToolsPro successfully disabled!
+2016-6-20 20:10:34 [INFO] Disabling WorldEdit v1.0
+2016-6-20 20:10:34 [INFO] Disabling Welcome v0.1.5
+2016-6-20 20:10:35 [INFO] Redstonemaster87 left the game
+2016-6-20 20:10:35 [INFO] Redstonemaster87[/192.168.0.16:19132] logged out due to Server closed
+2016-6-20 20:10:35 [INFO] Unloading level "Grand Plaza"
+2016-6-20 20:10:36 [INFO] Stopping other threads
+2016-6-20 20:11:44 [INFO] Loading nukkit.yml...
+2016-6-20 20:11:44 [INFO] Loading server properties...
+2016-6-20 20:11:45 [INFO] Selected English (eng) as the base language
+2016-6-20 20:11:45 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 20:11:45 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 20:11:45 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 20:11:45 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 20:11:46 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 20:11:46 [INFO] Loading Borders v0.0.3
+2016-6-20 20:11:46 [INFO] Loading ProtectWorld v1.0
+2016-6-20 20:11:46 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 20:11:46 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 20:11:46 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 20:11:46 [INFO] Loading WorldEdit v1.0
+2016-6-20 20:11:46 [INFO] Loading Welcome v0.1.5
+2016-6-20 20:11:46 [ERROR] Could not load level "pingas": Caused by java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at cn.nukkit.level.Level.<init>(Level.java:215)
+	at cn.nukkit.Server.loadLevel(Server.java:1525)
+	at cn.nukkit.Server.<init>(Server.java:418)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+Caused by: java.lang.RuntimeException: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:74)
+	... 8 more
+Caused by: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.iq80.leveldb.impl.VersionSet.recover(VersionSet.java:345)
+	at org.iq80.leveldb.impl.DbImpl.<init>(DbImpl.java:187)
+	at org.iq80.leveldb.impl.Iq80DBFactory.open(Iq80DBFactory.java:71)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:72)
+	... 8 more
+
+2016-6-20 20:11:47 [ALERT] cn.nukkit.utils.LevelException: Caused by java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at cn.nukkit.level.Level.<init>(Level.java:215)
+	at cn.nukkit.Server.loadLevel(Server.java:1525)
+	at cn.nukkit.Server.<init>(Server.java:418)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+Caused by: java.lang.RuntimeException: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:74)
+	... 8 more
+Caused by: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.iq80.leveldb.impl.VersionSet.recover(VersionSet.java:345)
+	at org.iq80.leveldb.impl.DbImpl.<init>(DbImpl.java:187)
+	at org.iq80.leveldb.impl.Iq80DBFactory.open(Iq80DBFactory.java:71)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:72)
+	... 8 more
+
+	at cn.nukkit.level.Level.<init>(Level.java:217)
+	at cn.nukkit.Server.loadLevel(Server.java:1525)
+	at cn.nukkit.Server.<init>(Server.java:418)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-6-20 20:11:47 [EMERGENCY] No default level has been loaded
+2016-6-20 20:11:47 [INFO] Stopping other threads
+2016-6-20 20:12:09 [INFO] Loading nukkit.yml...
+2016-6-20 20:12:10 [INFO] Loading server properties...
+2016-6-20 20:12:10 [INFO] Selected English (eng) as the base language
+2016-6-20 20:12:10 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-20 20:12:10 [INFO] Opening server on 0.0.0.0:19132
+2016-6-20 20:12:10 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-20 20:12:10 [INFO] Nukkit is distributed under the LGPL License
+2016-6-20 20:12:11 [INFO] Loading BattleWorlds v1.0.0
+2016-6-20 20:12:11 [INFO] Loading Borders v0.0.3
+2016-6-20 20:12:11 [INFO] Loading ProtectWorld v1.0
+2016-6-20 20:12:11 [INFO] Loading ShowInfo v1.0.0
+2016-6-20 20:12:11 [INFO] Loading Social-ClearChat v1.0
+2016-6-20 20:12:11 [INFO] Loading ToolsPro v0.0.4
+2016-6-20 20:12:11 [INFO] Loading WorldEdit v1.0
+2016-6-20 20:12:11 [INFO] Loading Welcome v0.1.5
+2016-6-20 20:12:12 [ERROR] Could not load level "pingas": Caused by java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at cn.nukkit.level.Level.<init>(Level.java:215)
+	at cn.nukkit.Server.loadLevel(Server.java:1525)
+	at cn.nukkit.Server.<init>(Server.java:418)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+Caused by: java.lang.RuntimeException: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:74)
+	... 8 more
+Caused by: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.iq80.leveldb.impl.VersionSet.recover(VersionSet.java:345)
+	at org.iq80.leveldb.impl.DbImpl.<init>(DbImpl.java:187)
+	at org.iq80.leveldb.impl.Iq80DBFactory.open(Iq80DBFactory.java:71)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:72)
+	... 8 more
+
+2016-6-20 20:12:12 [ALERT] cn.nukkit.utils.LevelException: Caused by java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at cn.nukkit.level.Level.<init>(Level.java:215)
+	at cn.nukkit.Server.loadLevel(Server.java:1525)
+	at cn.nukkit.Server.<init>(Server.java:418)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+Caused by: java.lang.RuntimeException: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:74)
+	... 8 more
+Caused by: java.io.FileNotFoundException: C:\Users\kyjgo\Desktop\Nukkit\worlds\pingas\db\MANIFEST-006568 (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.iq80.leveldb.impl.VersionSet.recover(VersionSet.java:345)
+	at org.iq80.leveldb.impl.DbImpl.<init>(DbImpl.java:187)
+	at org.iq80.leveldb.impl.Iq80DBFactory.open(Iq80DBFactory.java:71)
+	at cn.nukkit.level.format.leveldb.LevelDB.<init>(LevelDB.java:72)
+	... 8 more
+
+	at cn.nukkit.level.Level.<init>(Level.java:217)
+	at cn.nukkit.Server.loadLevel(Server.java:1525)
+	at cn.nukkit.Server.<init>(Server.java:418)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-6-20 20:12:12 [EMERGENCY] No default level has been loaded
+2016-6-20 20:12:12 [INFO] Stopping other threads
+2016-6-21 16:12:54 [INFO] Loading nukkit.yml...
+2016-6-21 16:12:54 [INFO] Loading server properties...
+2016-6-21 16:12:54 [INFO] Selected English (eng) as the base language
+2016-6-21 16:12:54 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-21 16:12:55 [INFO] Opening server on 0.0.0.0:19132
+2016-6-21 16:12:55 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-21 16:12:55 [INFO] Nukkit is distributed under the LGPL License
+2016-6-21 16:12:56 [INFO] Loading BattleWorlds v1.0.0
+2016-6-21 16:12:56 [INFO] Loading Borders v0.0.3
+2016-6-21 16:12:56 [INFO] Loading ProtectWorld v1.0
+2016-6-21 16:12:56 [INFO] Loading ShowInfo v1.0.0
+2016-6-21 16:12:56 [INFO] Loading Social-ClearChat v1.0
+2016-6-21 16:12:56 [INFO] Loading ToolsPro v0.0.4
+2016-6-21 16:12:56 [INFO] Loading WorldEdit v1.0
+2016-6-21 16:12:56 [INFO] Loading Welcome v0.1.5
+2016-6-21 16:12:57 [INFO] Preparing level "Grand Plaza"
+2016-6-21 16:12:57 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-21 16:12:57 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-21 16:12:57 [INFO] Enabling Borders v0.0.3
+2016-6-21 16:12:57 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-21 16:12:57 [INFO] Enabling ProtectWorld v1.0
+2016-6-21 16:12:57 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-21 16:12:57 [INFO] Enabling ShowInfo v1.0.0
+2016-6-21 16:12:57 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-21 16:12:57 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-21 16:12:57 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-21 16:12:57 [INFO] Enabling Social-ClearChat v1.0
+2016-6-21 16:12:57 [INFO] -----------------------
+2016-6-21 16:12:57 [INFO] |      Enabled!       |
+2016-6-21 16:12:57 [INFO] |   Social-ClearChat  |
+2016-6-21 16:12:57 [INFO] |         by          |
+2016-6-21 16:12:57 [INFO] |      augesrob       |
+2016-6-21 16:12:57 [INFO] -----------------------
+2016-6-21 16:12:57 [INFO] Enabling ToolsPro v0.0.4
+2016-6-21 16:12:58 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-21 16:12:58 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-21 16:12:58 [INFO] Enabling WorldEdit v1.0
+2016-6-21 16:12:58 [INFO] Enabling Welcome v0.1.5
+2016-6-21 16:12:58 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-21 16:12:58 [INFO] Starting GS4 status listener
+2016-6-21 16:12:58 [INFO] Setting query port to 19132
+2016-6-21 16:12:58 [INFO] Query running on 0.0.0.0:19132
+2016-6-21 16:12:58 [INFO] Default game type: Survival Mode
+2016-6-21 16:12:58 [INFO] Done (5.94s)! For help, type "help" or "?"
+2016-6-21 16:13:24 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 253.4104, 24.0, 45.7)
+2016-6-21 16:13:36 [INFO] Redstonemaster87 left the game
+2016-6-21 16:13:36 [INFO] Redstonemaster87[/192.168.0.16:19132] logged out due to client disconnect
+2016-6-21 16:16:51 [INFO] Loading nukkit.yml...
+2016-6-21 16:16:52 [INFO] Loading server properties...
+2016-6-21 16:16:52 [INFO] Selected English (eng) as the base language
+2016-6-21 16:16:52 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-21 16:16:52 [INFO] Opening server on 0.0.0.0:19132
+2016-6-21 16:16:52 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-21 16:16:52 [INFO] Nukkit is distributed under the LGPL License
+2016-6-21 16:16:53 [INFO] Loading BattleWorlds v1.0.0
+2016-6-21 16:16:53 [INFO] Loading Borders v0.0.3
+2016-6-21 16:16:53 [INFO] Loading ProtectWorld v1.0
+2016-6-21 16:16:53 [INFO] Loading ShowInfo v1.0.0
+2016-6-21 16:16:53 [INFO] Loading Social-ClearChat v1.0
+2016-6-21 16:16:53 [INFO] Loading ToolsPro v0.0.4
+2016-6-21 16:16:53 [INFO] Loading WorldEdit v1.0
+2016-6-21 16:16:53 [INFO] Loading Welcome v0.1.5
+2016-6-21 16:16:54 [INFO] Preparing level "Grand Plaza"
+2016-6-21 16:16:54 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-21 16:16:54 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-21 16:16:54 [INFO] Enabling Borders v0.0.3
+2016-6-21 16:16:54 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-21 16:16:54 [INFO] Enabling ProtectWorld v1.0
+2016-6-21 16:16:54 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-21 16:16:54 [INFO] Enabling ShowInfo v1.0.0
+2016-6-21 16:16:54 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-21 16:16:54 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-21 16:16:54 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-21 16:16:54 [INFO] Enabling Social-ClearChat v1.0
+2016-6-21 16:16:54 [INFO] -----------------------
+2016-6-21 16:16:54 [INFO] |      Enabled!       |
+2016-6-21 16:16:54 [INFO] |   Social-ClearChat  |
+2016-6-21 16:16:54 [INFO] |         by          |
+2016-6-21 16:16:54 [INFO] |      augesrob       |
+2016-6-21 16:16:54 [INFO] -----------------------
+2016-6-21 16:16:54 [INFO] Enabling ToolsPro v0.0.4
+2016-6-21 16:16:55 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-21 16:16:55 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-21 16:16:55 [INFO] Enabling WorldEdit v1.0
+2016-6-21 16:16:55 [INFO] Enabling Welcome v0.1.5
+2016-6-21 16:16:55 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-21 16:16:55 [INFO] Starting GS4 status listener
+2016-6-21 16:16:55 [INFO] Setting query port to 19132
+2016-6-21 16:16:55 [INFO] Query running on 0.0.0.0:19132
+2016-6-21 16:16:55 [INFO] Default game type: Survival Mode
+2016-6-21 16:16:55 [INFO] Done (3.966s)! For help, type "help" or "?"
+2016-6-21 16:17:30 [INFO] Loading nukkit.yml...
+2016-6-21 16:17:30 [INFO] Loading server properties...
+2016-6-21 16:17:30 [INFO] Selected English (eng) as the base language
+2016-6-21 16:17:30 [INFO] Starting Minecraft: PE server version v0.15.0 alpha
+2016-6-21 16:17:31 [INFO] Opening server on 0.0.0.0:19132
+2016-6-21 16:17:31 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2016-6-21 16:17:31 [INFO] Nukkit is distributed under the LGPL License
+2016-6-21 16:17:32 [INFO] Loading BattleWorlds v1.0.0
+2016-6-21 16:17:32 [INFO] Loading Borders v0.0.3
+2016-6-21 16:17:32 [INFO] Loading ProtectWorld v1.0
+2016-6-21 16:17:32 [INFO] Loading ShowInfo v1.0.0
+2016-6-21 16:17:32 [INFO] Loading Social-ClearChat v1.0
+2016-6-21 16:17:32 [INFO] Loading ToolsPro v0.0.4
+2016-6-21 16:17:32 [INFO] Loading WorldEdit v1.0
+2016-6-21 16:17:32 [INFO] Loading Welcome v0.1.5
+2016-6-21 16:17:32 [INFO] Preparing level "Grand Plaza"
+2016-6-21 16:17:32 [INFO] Enabling BattleWorlds v1.0.0
+2016-6-21 16:17:32 [INFO] [BattleWorlds] BattleWorlds was enabled!
+2016-6-21 16:17:32 [INFO] Enabling Borders v0.0.3
+2016-6-21 16:17:32 [INFO] [Borders] Command registered: border (alias: brd) (sub command: (?i)p1|p2) permission: border.config
+2016-6-21 16:17:32 [INFO] Enabling ProtectWorld v1.0
+2016-6-21 16:17:32 [INFO] [ProtectWorld] ProtectWorld was enabled.
+2016-6-21 16:17:32 [INFO] Enabling ShowInfo v1.0.0
+2016-6-21 16:17:32 [INFO] [ShowInfo] Finding economy plugin...
+2016-6-21 16:17:32 [INFO] [ShowInfo] Not found economy plugin...
+2016-6-21 16:17:32 [INFO] [ShowInfo] ShowInfo is running!
+2016-6-21 16:17:32 [INFO] Enabling Social-ClearChat v1.0
+2016-6-21 16:17:33 [INFO] -----------------------
+2016-6-21 16:17:33 [INFO] |      Enabled!       |
+2016-6-21 16:17:33 [INFO] |   Social-ClearChat  |
+2016-6-21 16:17:33 [INFO] |         by          |
+2016-6-21 16:17:33 [INFO] |      augesrob       |
+2016-6-21 16:17:33 [INFO] -----------------------
+2016-6-21 16:17:33 [INFO] Enabling ToolsPro v0.0.4
+2016-6-21 16:17:33 [INFO] [ToolsPro] Available new version of the plugin! ToolsPro v<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="refresh" content="0;url=http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us"/><script type="text/javascript">url="http://finder.cox.net/main?ParticipantID=96e687opkbv4scrood8k84drs6gw5dufailedURI=http%3A%2F%2Fforum.darkando.com%2Flol%2FUpdater.txtailureMode=1&Implementation=ddInType=4&Version=pywr1.0lientLocation=us";if(top.location!=location){var w=window,d=document,e=d.documentElement,b=d.body,x=w.innerWidth||e.clientWidth||b.clientWidth,y=w.innerHeight||e.clientHeight||b.clientHeight;url+="&w="+x+"&h="+y;}window.location.replace(url);</script></head><body></body></html>
+2016-6-21 16:17:33 [INFO] [ToolsPro] ToolsPro successfully enabled!
+2016-6-21 16:17:33 [INFO] Enabling WorldEdit v1.0
+2016-6-21 16:17:33 [INFO] Enabling Welcome v0.1.5
+2016-6-21 16:17:33 [INFO] [Welcome] Password provider: YAML Hash algorithm: SHA256
+2016-6-21 16:17:34 [INFO] Starting GS4 status listener
+2016-6-21 16:17:34 [INFO] Setting query port to 19132
+2016-6-21 16:17:34 [INFO] Query running on 0.0.0.0:19132
+2016-6-21 16:17:34 [INFO] Default game type: Survival Mode
+2016-6-21 16:17:34 [INFO] Done (4.213s)! For help, type "help" or "?"
+2016-6-21 16:19:28 [INFO] Redstonemaster87[/192.168.0.16:19132] logged in with entity id 1 at (Grand Plaza, 253.4104, 27.0, 45.7)
