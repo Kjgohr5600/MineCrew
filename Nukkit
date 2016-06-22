@@ -1,0 +1,12 @@
+white-list.txt
+start.cmd
+server.properties
+server.log
+ops.txt
+nukkit.yml
+nc.jar
+banned-players.json
+banned-ips.json
+worlds
+plugins
+players
