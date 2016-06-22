@@ -1,2 +1,3 @@
 # MineCrew
-MineCrew is one of the most popular LEET servers. Here we have a lot of our sources used.
+MineCrew is an ongoing project. It will be a MCPE Nukkit server. All Nukkit files do not belong to us, and shouldn't be used. On here is the worlds and/or files for MineCrew.
+
